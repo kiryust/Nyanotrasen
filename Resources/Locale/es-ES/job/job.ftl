@@ -1,0 +1,6 @@
+job-greet-station-name = Bienvenido a bordo de {$stationName}.
+job-greet-introduce-job-name = Tu rol es: {$jobName}.
+job-greet-important-disconnect-admin-notify = Estás en un cargo que es importante para la progresión de la partida. Si te tienes que desconectar, por favor notifica a los administradores mediante "ahelp". You are playing a job that is important for Game Progression. If you have to disconnect, please notify the admins via ahelp.
+job-greet-supervisors-warning = Como {$jobName} respondes directamente a {$supervisors}. Circunstancias especiales pueden alterar esto.
+job-greet-crew-shortages = Debido a que esta estación inicialmente contenía una tripulación mínima, se te ha añadido acceso adicional a tu tarjeta de identificación.
+job-not-available-wait-in-lobby = La ronda ha comenzado, pero no has recibido ninguno de tus roles de trabajo preferidos (o no has seleccionado ningún rol de trabajo preferido) y se ha elegido que permanezcas en la sala de espera. Puedes cambiar este comportamiento en la pantalla de personalización.

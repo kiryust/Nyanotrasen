@@ -1,0 +1,11 @@
+lobby-state-paused = Pausado
+lobby-state-right-now-question = Right Now?
+lobby-state-right-now-confirmation = Right Now
+lobby-state-round-start-countdown-text = La ronda comienza en: {$timeLeft}
+lobby-state-ready-button-join-state = Join
+lobby-state-ready-button-ready-up-state = Preparado
+lobby-state-player-status-not-ready = No preparado
+lobby-state-player-status-ready = Preparado
+lobby-state-player-status-observer = Observer
+lobby-state-player-status-round-not-started = La ronda aún no ha comenzado.
+lobby-state-player-status-round-time =  The round time is: {$hours} hours and {$minutes} minutes

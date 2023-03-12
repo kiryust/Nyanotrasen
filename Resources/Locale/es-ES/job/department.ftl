@@ -1,0 +1,9 @@
+department-Cargo = cargo
+department-Civilian = civil
+department-Command = comando
+department-Engineering = ingeniería
+department-Medical = médico
+department-Security = seguridad
+department-Science = ciencia
+department-Epistemics = gnoseología
+department-Silicon = silicio

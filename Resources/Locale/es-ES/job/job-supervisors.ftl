@@ -1,0 +1,15 @@
+﻿job-supervisors-centcom = oficial de CentCom
+job-supervisors-captain = el capitán
+job-supervisors-hop = el jefe de personal
+job-supervisors-hop-qm = el oficial de intendencia y el jefe de personal
+job-supervisors-hos = el jefe de seguridad
+job-supervisors-ce = el ingeniero jefe
+job-supervisors-cmo = el director médico
+job-supervisors-rd = el mistagogo
+job-supervisors-service = chefs, botánicos, el barman y el jefe de personal
+job-supervisors-engineering = ingenieros de la estación, técnicos atmosféricos y el ingeniero jefe
+job-supervisors-medicine = médicos, químicos y el director médico
+job-supervisors-security = guardias de seguridad, el carcelero y el jefe de seguridad
+job-supervisors-warden = el carcelero y el jefe de seguridad
+job-supervisors-hire = quien te contrate
+job-supervisors-everyone = todo el mundo
