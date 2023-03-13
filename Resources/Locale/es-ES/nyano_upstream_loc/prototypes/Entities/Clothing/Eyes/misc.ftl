@@ -1,8 +1,8 @@
-ent-ClothingEyesEyepatch = eyepatch
-    .desc = Yarr.
+ent-ClothingEyesEyepatch = parche
+    .desc = Arr.
     .suffix = { "" }
 
-ent-ClothingEyesBlindfold = blindfold
+ent-ClothingEyesBlindfold = venda
     .desc = The bind leading the blind.
     .suffix = { "" }
 

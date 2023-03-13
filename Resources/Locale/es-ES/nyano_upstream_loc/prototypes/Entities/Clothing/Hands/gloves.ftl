@@ -1,60 +1,60 @@
-ent-ClothingHandsGlovesBoxingRed = red boxing gloves
-    .desc = Red gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRed = guantes de boxeo rojos
+    .desc = Guantes rojos para boxeo competitivo.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesBoxingBlue = blue boxing gloves
-    .desc = Blue gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingBlue = guantes de boxeo azules
+    .desc = Guantes azules para boxeo competitivo.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesBoxingGreen = green boxing gloves
-    .desc = Green gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingGreen = guantes de boxeo verdes
+    .desc = Guantes verdes para boxeo competitivo.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesBoxingYellow = yellow boxing gloves
-    .desc = Yellow gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingYellow = guantes de boxeo amarillos.
+    .desc = Guantes amarillos para boxeo competitivo.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesCaptain = captain gloves
-    .desc = Regal blue gloves, with a nice gold trim. Swanky.
+ent-ClothingHandsGlovesCaptain = guantes de capitán
+    .desc = Guantes azules regio, con un bonito bordado dorado. La mar de elegantes.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesIhscombat = IHS combat gloves
-    .desc = These tactical gloves are somewhat fire and impact resistant.
+ent-ClothingHandsGlovesIhscombat = guantes de combate IHS
+    .desc = Estos guantes tácticos son un tanto resistentes al fuego y los impactos.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesLatex = latex gloves
-    .desc = Thin sterile latex gloves. Basic PPE for any doctor.
+ent-ClothingHandsGlovesLatex = guantes de latex
+    .desc = Guantes finos de latex esterilizados. EPP básico para cualquier doctor.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesNitrile = nitrile gloves
-    .desc = High-quality nitrile gloves. Expensive medical PPE.
+ent-ClothingHandsGlovesNitrile = guantes de nitrilo
+    .desc = Guantes de nitrilo de alta calidad. EPP caro.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesLeather = botanist's leather gloves
-    .desc = These leather gloves protect against thorns, barbs, prickles, spikes and other harmful objects of floral origin. They're also quite warm.
+ent-ClothingHandsGlovesLeather = guantes de cuero de botánico
+    .desc = Estos guantes de cuero protegen contra espinas, púas, pinchos, pinchazos y otros elementos florales peligrosos. Son bastante calentitos.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesPowerglove = power gloves
-    .desc = Now I'm playin' with power! Wait, they are turned off.
+ent-ClothingHandsGlovesPowerglove = power glove
+    .desc = Ahora si que tengo el control de las cosas! Espera, está apagado.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesRobohands = robohands gloves
+ent-ClothingHandsGlovesRobohands = guantes de robomanos
     .desc = Beep boop borp!
     .suffix = { "" }
 
-ent-ClothingHandsGlovesSpaceNinja = space ninja gloves
-    .desc = These black nano-enhanced gloves insulate from electricity and provide fire resistance.
+ent-ClothingHandsGlovesSpaceNinja = guantes de ninja espacial
+    .desc = Estos guantes negros nano-mejorados aislan contra la electricidad y proporcionan resistencia al fuego.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesCombat = combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesCombat = guantes de combate
+    .desc = Estos guantes tácticos son ignífugos y aislan la electricidad.
     .suffix = { "" }
 
-ent-ClothingHandsGlovesFingerless = fingerless gloves
-    .desc = Plain black gloves without fingertips for the hard working.
+ent-ClothingHandsGlovesFingerless = guantes sin dedos
+    .desc = Guantes negros sin dedos para aquellos que trabajan duro.
     .suffix = { "" }
 
-ent-ThievingGloves = black gloves
-    .desc = Seemingly regular black gloves. The fingertips are outfitted with nanotech that makes stealing a breeze.
+ent-ThievingGloves = guantes negros
+    .desc = A simple vista, unos guantes negros cualquiera. Las huellas dactilares están equipadas con nanotecnología que hacen que robar sea coser y cantar.
     .suffix = Thieving
 

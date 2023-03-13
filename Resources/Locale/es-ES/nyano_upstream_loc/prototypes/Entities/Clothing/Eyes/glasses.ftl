@@ -1,36 +1,36 @@
-ent-ClothingEyesGlassesBeer = beer goggles
-    .desc = A pair of sunglasses outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion.
+ent-ClothingEyesGlassesBeer = gafas de cerveza
+    .desc = Un par de gafas de sol equipadas con un aparato para escanear reactivos, así como proporcionar un conocimiento innato de la viscosidad de líquidos.
     .suffix = { "" }
 
-ent-ClothingEyesGlassesGar = gar glasses
-    .desc = Go beyond impossible and kick reason to the curb!
+ent-ClothingEyesGlassesGar = gafas de Kamina
+    .desc = Atraviesa lo imposible y despega con impulso!
     .suffix = { "" }
 
-ent-ClothingEyesGlassesGarOrange = orange gar glasses
-    .desc = Just who the hell do you think I am?!
+ent-ClothingEyesGlassesGarOrange = gafas de Kamina naranjas
+    .desc = ¿Quién cojones te crees que soy?
     .suffix = { "" }
 
-ent-ClothingEyesGlassesGarGiga = giga gar glasses
-    .desc = We evolve past the person we were a minute before. Little by little we advance with each turn. That's how a drill works!
+ent-ClothingEyesGlassesGarGiga = giga gafas de Kamina
+    .desc = Evolucionamos más allá de la persona que éramos un minuto antes. Poco a poco, avanzamos con cada turno. Así es como funciona un taladro!
     .suffix = { "" }
 
-ent-ClothingEyesGlassesMeson = engineering goggles
-    .desc = Green-tinted goggles using a proprietary polymer that provides protection from eye damage of all types.
+ent-ClothingEyesGlassesMeson = gafas de ingeniero
+    .desc = Gafas de color verde que utilizan un polímero patentado para proteger de daños a los ojos.
     .suffix = { "" }
 
-ent-ClothingEyesGlasses = glasses
-    .desc = A pair of spectacular spectacles with prescription lenses.
+ent-ClothingEyesGlasses = gafas
+    .desc = Unas gafas espectaculares con lentes graduadas.
     .suffix = { "" }
 
-ent-ClothingEyesGlassesSunglasses = sun glasses
-    .desc = Useful both for security and cargonia.
+ent-ClothingEyesGlassesSunglasses = gafas de sol
+    .desc = Útiles tanto para seguridad como para cargonia.
     .suffix = { "" }
 
-ent-ClothingEyesGlassesSecurity = security sunglasses
-    .desc = Strangely ancient technology used to help provide rudimentary eye cover. Enhanced shielding blocks many flashes. Often worn by budget security officers.
+ent-ClothingEyesGlassesSecurity = gafas de sol de seguridad
+    .desc = Extraña tecnología antigua utilizada para proporcionar cobertura a los ojos. Las lentes mejoradas protegen contra múltiples flashes. A menudo las llevan guardias de seguridad.
     .suffix = { "" }
 
-ent-ClothingEyesGlassesThermal = optical thermal scanner
-    .desc = Thermals in the shape of glasses.
+ent-ClothingEyesGlassesThermal = escáner térmico óptico
+    .desc = Térmicas con forma de gafas.
     .suffix = { "" }
 

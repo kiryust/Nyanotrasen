@@ -1,12 +1,12 @@
-ent-ClothingEyesHudDiagnostic = diagnostic hud
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits.
+ent-ClothingEyesHudDiagnostic = hud de diagnóstico
+    .desc = Una visualización cabeza-arriba capaz de analizar la integridad y estatus de robots y exotrajes.
     .suffix = { "" }
 
-ent-ClothingEyesHudMedical = medical hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
+ent-ClothingEyesHudMedical = hud médico
+    .desc = Una visualización cabeza-arriba que escanea a los humanoides cercanos y proporciona información precisa sobre su estado de salud.
     .suffix = { "" }
 
-ent-ClothingEyesHudSecurity = security hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records.
+ent-ClothingEyesHudSecurity = hud de seguridad
+    .desc = Una visualización cabeza-arriba que escanea a los humanoides cercanos y proporciona información precisa sobre el estado de su tarjeta de identificación y antecedentes criminales.
     .suffix = { "" }
 
