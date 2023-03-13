@@ -1,40 +1,40 @@
-ent-ClothingBackpackSatchel = satchel
-    .desc = A trendy looking satchel.
+ent-ClothingBackpackSatchel = cartera
+    .desc = Una cartera de aspecto moderno.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelEngineering = engineering satchel
-    .desc = A tough satchel with extra pockets.
+ent-ClothingBackpackSatchelEngineering = cartera de ingeniero
+    .desc = Una cartera dura con bolsillos extra.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelMedical = medical satchel
-    .desc = A sterile satchel used in medical departments.
+ent-ClothingBackpackSatchelMedical = cartera médica
+    .desc = Una cartera estéril utilizada en los departamentos médicos.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelChemistry = chemistry satchel
-    .desc = A sterile satchel with chemist colours.
+ent-ClothingBackpackSatchelChemistry = cartera de química
+    .desc = Una cartera estéril con colores de químico.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelScience = science satchel
-    .desc = Useful for holding research materials.
+ent-ClothingBackpackSatchelScience = cartera de ciencia
+    .desc = Útil para guardar materiales de investigación.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelSecurity = security satchel
-    .desc = A robust satchel for security related needs.
+ent-ClothingBackpackSatchelSecurity = cartera de seguridad
+    .desc = Una cartera robusta para almacenar objetos de seguridad.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelCaptain = captain's satchel
-    .desc = An exclusive satchel for Nanotrasen officers.
+ent-ClothingBackpackSatchelCaptain = cartera de capitán
+    .desc = Una cartera exclusiva para oficiales de Nanotrasen.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelHydroponics = hydroponics satchel
-    .desc = A satchel made of all natural fibers.
+ent-ClothingBackpackSatchelHydroponics = cartera de hidropónica
+    .desc = Una cartera hecha de fibras naturales.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelSalvage = salvage satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelSalvage = cartera de salvamento
+    .desc = Una cartera robusta para almacenar tu botín.
     .suffix = { "" }
 
-ent-ClothingBackpackSatchelHolding = satchel of holding
-    .desc = A satchel that opens into a localized pocket of bluespace.
+ent-ClothingBackpackSatchelHolding = cartera de posesión
+    .desc = Una cartera que se abre en un bolsillo del espacio azul.
     .suffix = { "" }
 

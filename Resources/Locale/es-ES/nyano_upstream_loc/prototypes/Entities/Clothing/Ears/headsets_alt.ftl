@@ -1,24 +1,24 @@
-ent-ClothingHeadsetAlt = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAlt = auriculares
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
-ent-ClothingHeadsetAltCentCom = CentCom over-ear headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAltCentCom = auricular sobre oído de centcom
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
-ent-ClothingHeadsetAltCommand = command over-ear headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAltCommand = auricular sobre oído de comando
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado..
     .suffix = { "" }
 
-ent-ClothingHeadsetAltMedical = medical over-ear headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAltMedical = auricular sobre oído de médico
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
-ent-ClothingHeadsetAltSecurity = security over-ear headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAltSecurity = auricular sobre oído de seguridad
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
-ent-ClothingHeadsetAltSyndicate = syndicate over-ear headset
-    .desc = An updated, modular syndicate intercom that fits over the head and takes encryption keys. Protects ears from flashbangs.
+ent-ClothingHeadsetAltSyndicate = auricular sobre oído del sindicato
+    .desc = Un intercomunicador modular y actualizado del sindicato que cabe en tu cabeza además de utilizar claves de cifrado. Proteje tus oídos de las flashbangs.
     .suffix = { "" }
 

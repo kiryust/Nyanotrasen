@@ -1,72 +1,72 @@
-ent-ClothingBackpackDuffel = duffel bag
-    .desc = A large duffel bag for holding extra things.
+ent-ClothingBackpackDuffel = bolsa duffel
+    .desc = Una bolsa duffel grande para almacenar más cosas.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelEngineering = engineering duffel bag
-    .desc = A large duffel bag for holding extra tools and supplies.
+ent-ClothingBackpackDuffelEngineering = bolsa duffel de ingeniero
+    .desc = Una bolsa duffel grande para almacenar herramientas y provisiones extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelMedical = medical duffel bag
-    .desc = A large duffel bag for holding extra medical supplies.
+ent-ClothingBackpackDuffelMedical = bolsa duffel de médico
+    .desc = Una bolsa duffel grande para almacenar suministros médicos extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelCaptain = captain's duffel bag
-    .desc = A large duffel bag for holding extra captainly goods.
+ent-ClothingBackpackDuffelCaptain = bolsa duffel de capitán
+    .desc = Una bolsa duffel grande para almacenar cosas de capitán extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelClown = clown duffel bag
-    .desc = A large duffel bag for holding extra honk goods.
+ent-ClothingBackpackDuffelClown = bolsa duffel de payaso
+    .desc = Una bolsa duffel grande para almacenar bocinas extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSecurity = security duffel bag
-    .desc = A large duffel bag for holding extra security related goods.
+ent-ClothingBackpackDuffelSecurity = bolsa duffel de seguridad
+    .desc = Una bolsa duffel grande para almacenar cosas de seguridad extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelChemistry = chemistry duffel bag
-    .desc = A large duffel bag for holding extra beakers and test tubes.
+ent-ClothingBackpackDuffelChemistry = bolsa duffel de química
+    .desc = Una bolsa duffel grande para almacenar vasos y tubos de ensayo extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelMime = mime duffel bag
-    .desc = A large duffel bag for holding... mime... stuff.
+ent-ClothingBackpackDuffelMime = bolsa duffel de mimo
+    .desc = Una bolsa duffel grande para guardar... ehm... cosas... de mimo.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelScience = science duffel bag
-    .desc = A large duffel bag for holding extra science related goods.
+ent-ClothingBackpackDuffelScience = bolsa duffel de ciencia
+    .desc = Una bolsa duffel grande para guardar cosas de ciencia extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelHydroponics = hydroponic's duffel bag
-    .desc = A large duffel bag for holding extra gardening tools.
+ent-ClothingBackpackDuffelHydroponics = bolsa duffel de hidropónica
+    .desc = Una bolsa duffel grande para guardar herramientas de jardinería extra.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSalvage = salvage duffel bag
-    .desc = A large duffel bag for holding extra exotic treasures.
+ent-ClothingBackpackDuffelSalvage = bolsa duffel de salvamento
+    .desc = Una bolsa duffel grande para guardar más tesoros exóticos.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicate = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicate = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicateBundle = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicateBundle = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicateAmmo = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicateAmmo = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicateAmmoBundle = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicateAmmoBundle = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicateMedical = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicateMedical = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelSyndicateMedicalBundle = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicateMedicalBundle = bolsa duffel del sindicato
+    .desc = Una bolsa duffel grande para guardar múltiples objetos de traidor.
     .suffix = { "" }
 
-ent-ClothingBackpackDuffelHolding = duffelbag of holding
-    .desc = A duffelbag that opens into a localized pocket of bluespace.
+ent-ClothingBackpackDuffelHolding = duffelbag de posesión
+    .desc = Una bolsa duffel que se abre en un bolsillo del espacio azul.
     .suffix = { "" }
 

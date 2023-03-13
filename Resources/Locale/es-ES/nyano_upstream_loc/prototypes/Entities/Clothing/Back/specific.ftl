@@ -1,4 +1,4 @@
-ent-ClothingBackpackChameleon = backpack
-    .desc = You wear this on your back and put items into it.
+ent-ClothingBackpackChameleon = mochila
+    .desc = Te la pones en la espalda y la llenas de cosas.
     .suffix = Chameleon
 

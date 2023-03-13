@@ -1,64 +1,64 @@
-ent-ClothingHeadset = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadset = auriculares
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
-ent-ClothingHeadsetCargo = cargo headset
-    .desc = A headset used by supply employees.
+ent-ClothingHeadsetCargo = auriculares de cargo
+    .desc = Unos auriculares utilizados por los empleados de suministro.
     .suffix = { "" }
 
-ent-ClothingHeadsetQM = qm headset
-    .desc = A headset used by quartermasters.
+ent-ClothingHeadsetQM = auriculares de oficial de intendencia
+    .desc = Unos auriculares utilizados por el oficial de intendencia.
     .suffix = { "" }
 
-ent-ClothingHeadsetCentCom = CentCom headset
-    .desc = A headset used by the upper echelons of Nanotrasen.
+ent-ClothingHeadsetCentCom = auriculares de CentCom
+    .desc = Unos auriculares utilizados por los altos rangos de Nanotrasen.
     .suffix = { "" }
 
-ent-ClothingHeadsetCommand = command headset
-    .desc = A headset with a commanding channel.
+ent-ClothingHeadsetCommand = auriculares de comando
+    .desc = Unos auriculares con un canal de comando.
     .suffix = { "" }
 
-ent-ClothingHeadsetEngineering = engineering headset
-    .desc = A headset for engineers to chat while the station burns around them.
+ent-ClothingHeadsetEngineering = auriculares de ingeniería
+    .desc = Unos auriculares para que los ingenieros charlen mientras la estación arde en llamas.
     .suffix = { "" }
 
-ent-ClothingHeadsetCE = ce headset
-    .desc = A headset for the chief engineer to ignore all emergency calls on.
+ent-ClothingHeadsetCE = auriculares de ingeniero jefe
+    .desc = Unos auriculares para que el ingeniero jefe ignore todas las llamadas de emergencia.
     .suffix = { "" }
 
-ent-ClothingHeadsetMedical = medical headset
-    .desc = A headset for the trained staff of the medbay.
+ent-ClothingHeadsetMedical = auriculares de médico
+    .desc = Unos auriculares para el equipo entrenado del área médica.
     .suffix = { "" }
 
-ent-ClothingHeadsetMedicalScience = medical research headset
-    .desc = A headset that is a result of the mating between medical and science.
+ent-ClothingHeadsetMedicalScience = auriculares de investigación médica
+    .desc = Unos auriculares resultado de una fusión entre el equipo médico y científico.
     .suffix = { "" }
 
-ent-ClothingHeadsetMining = mining headset
-    .desc = Headset used by shaft miners.
+ent-ClothingHeadsetMining = auriculares de minero
+    .desc = Auriculares utilizados por mineros.
     .suffix = { "" }
 
-ent-ClothingHeadsetRobotics = robotics headset
-    .desc = Made specifically for the roboticists, who cannot decide between departments.
+ent-ClothingHeadsetRobotics = auriculares de robótica
+    .desc = Hechos específicamente para los roboticistas, que no son capaces de elegir un departamento.
     .suffix = { "" }
 
-ent-ClothingHeadsetScience = science headset
-    .desc = A sciency headset. Like usual.
+ent-ClothingHeadsetScience = auriculares de ciencia
+    .desc = Unos auriculares científicos. Lo típico.
     .suffix = { "" }
 
-ent-ClothingHeadsetRD = rd headset
-    .desc = Lamarr used to love chewing on this...
+ent-ClothingHeadsetRD = auriculares de I+D
+    .desc = A Lamarr le encantaba mordisquear esto...
     .suffix = { "" }
 
-ent-ClothingHeadsetSecurity = security headset
-    .desc = This is used by your elite security force.
+ent-ClothingHeadsetSecurity = auriculares de seguridad
+    .desc = Utilizados por el cuerpo de seguridad de élite.
     .suffix = { "" }
 
-ent-ClothingHeadsetService = service headset
-    .desc = Headset used by the service staff, tasked with keeping the station full, happy and clean.
+ent-ClothingHeadsetService = auriculares de servicio
+    .desc = Auriculares utilizados por el personal de servicio, encargados de mantener la estación feliz, llena y limpia.
     .suffix = { "" }
 
-ent-ClothingHeadsetGrey = passenger headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetGrey = auriculares de pasajero
+    .desc = Un intercomunicador modular y actualizado que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
