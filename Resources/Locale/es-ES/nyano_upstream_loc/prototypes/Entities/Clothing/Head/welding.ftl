@@ -1,20 +1,20 @@
-ent-WeldingMaskBase = welding mask
+ent-WeldingMaskBase = máscara de soldador
     .desc = { "" }
     .suffix = { "" }
 
-ent-ClothingHeadHatWelding = welding mask
-    .desc = A head-mounted face cover designed to protect the wearer completely from space-arc eye.
+ent-ClothingHeadHatWelding = máscara de soldador
+    .desc = Una cubierta facial que se monta en la cabeza diseñada para proteger los ojos.
     .suffix = { "" }
 
-ent-ClothingHeadHatWeldingMaskFlame = flame welding mask
-    .desc = A painted welding helmet, this one has flames on it.
+ent-ClothingHeadHatWeldingMaskFlame = máscara de soldador con llamas
+    .desc = Una máscara de soldador pintada, esta tiene unas llamas.
     .suffix = { "" }
 
-ent-ClothingHeadHatWeldingMaskFlameBlue = blue-flame welding mask
-    .desc = A painted welding helmet, this one has blue flames on it.
+ent-ClothingHeadHatWeldingMaskFlameBlue = máscara de soldador con llamas azules
+    .desc = Una máscara de soldador pintada, esta tiene unas llamas azules.
     .suffix = { "" }
 
-ent-ClothingHeadHatWeldingMaskPainted = painted welding mask
-    .desc = A welding helmet, painted in crimson.
+ent-ClothingHeadHatWeldingMaskPainted = máscara de soldador pintada
+    .desc = Una máscara de soldador, pintada color carmesí.
     .suffix = { "" }
 

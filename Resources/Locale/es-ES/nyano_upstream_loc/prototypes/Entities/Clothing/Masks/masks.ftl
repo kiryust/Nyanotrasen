@@ -1,64 +1,64 @@
-ent-ClothingMaskGas = gas mask
-    .desc = A face-covering mask that can be connected to an air supply.
+ent-ClothingMaskGas = máscara de gas
+    .desc = Una máscara que cubre la cara que se puede conectar a un suministro de aire.
     .suffix = { "" }
 
-ent-ClothingMaskGasSecurity = security gas mask
-    .desc = A standard issue Security gas mask.
+ent-ClothingMaskGasSecurity = máscara de gas de seguridad
+    .desc = Una máscara de gas de seguridad estándar.
     .suffix = { "" }
 
-ent-ClothingMaskGasSyndicate = syndicate gas mask
-    .desc = A close-fitting tactical mask that can be connected to an air supply.
+ent-ClothingMaskGasSyndicate = máscara de gas del sindicato
+    .desc = Una máscara táctica ajustada que se puede conectar a un suministro de aire.
     .suffix = { "" }
 
-ent-ClothingMaskGasAtmos = atmospheric gas mask
-    .desc = Improved gas mask utilized by atmospheric technicians. It's flameproof!
+ent-ClothingMaskGasAtmos = máscara de gas atmosférica
+    .desc = una máscara de gas mejorada utilizada por técnicos atmosféricos. Es ignífuga!
     .suffix = { "" }
 
-ent-ClothingMaskGasCaptain = captain's gas mask
-    .desc = Nanotrasen cut corners and repainted a spare atmospheric gas mask, but don't tell anyone.
+ent-ClothingMaskGasCaptain = máscara de gas de capitán
+    .desc = Nanotrasen decidió ahorrar costes y repintaron una máscara de gas atmosférica. Pero no se lo digas a nadie.
     .suffix = { "" }
 
-ent-ClothingMaskGasCentcom = CentCom gas mask
-    .desc = Oooh, gold and green. Fancy! This should help as you sit in your office.
+ent-ClothingMaskGasCentcom = máscara de gas de centcom
+    .desc = Oooh, dorada y verde, que bonita! Debería ayudarte a sentarte en tu oficina.
     .suffix = { "" }
 
-ent-ClothingMaskGasExplorer = explorer gas mask
-    .desc = A military-grade gas mask that can be connected to an air supply.
+ent-ClothingMaskGasExplorer = máscara de gas de explorador
+    .desc = Una máscara de gas militar que se puede conectar a un suministro de aire.
     .suffix = { "" }
 
-ent-ClothingMaskGasVoiceMasker = gas mask
-    .desc = A face-covering mask that can be connected to an air supply. There are switches and knobs underneath the mask.
+ent-ClothingMaskGasVoiceMasker = máscara de gas
+    .desc = Una máscara que cubre la cara que se puede conectar a un suministro de aire. Hay interruptores debajo de la máscara.
     .suffix = Voice Mask
 
-ent-ClothingMaskBreathMedical = medical mask
-    .desc = A close-fitting sterile mask that can be connected to an air supply.
+ent-ClothingMaskBreathMedical = máscara médica
+    .desc = Una máscara estéril apretada que se puede conectar a un suministro de aire.
     .suffix = Voice Mask
 
-ent-ClothingMaskBreath = breath mask
-    .desc = Might as well keep this on 24/7.
+ent-ClothingMaskBreath = máscara de respirar
+    .desc = Quizá merezca la pena llevar esto puesto las 24 horas del día.
     .suffix = Voice Mask
 
-ent-ClothingMaskClown = clown wig and mask
-    .desc = A true prankster's facial attire. A clown is incomplete without his wig and mask.
+ent-ClothingMaskClown = peluca y máscara de payaso
+    .desc = El atuendo facial de un auténtico bromista. Un payaso no está completo sin su peluca y máscara.
     .suffix = Voice Mask
 
-ent-ClothingMaskJoy = joy mask
-    .desc = Express your happiness or hide your sorrows with this laughing face with crying tears of joy cutout.
+ent-ClothingMaskJoy = máscara de alegría
+    .desc = Expresa tu felicidad o esconde tu sufrimiento con está cara de risa con lágrimas de alegría.
     .suffix = Voice Mask
 
-ent-ClothingMaskMime = mime mask
-    .desc = The traditional mime's mask. It has an eerie facial posture.
+ent-ClothingMaskMime = máscara de mimo
+    .desc = Una máscara de mimo tradicional. Tiene una extraña postura facial.
     .suffix = Voice Mask
 
-ent-ClothingMaskSterile = sterile mask
-    .desc = A sterile mask designed to help prevent the spread of diseases.
+ent-ClothingMaskSterile = máscara estéril
+    .desc = Una máscara estéril diseñada a ayudar a prevenir el contagio de enfermedades.
     .suffix = Voice Mask
 
-ent-ClothingMaskMuzzle = muzzle
-    .desc = To stop that awful noise.
+ent-ClothingMaskMuzzle = bozal
+    .desc = Para parar ese sonido tan molesto.
     .suffix = Voice Mask
 
-ent-ClothingMaskPlague = plague doctor mask
-    .desc = A bad omen.
+ent-ClothingMaskPlague = máscara de médico de la peste
+    .desc = Un mal presagio
     .suffix = Voice Mask
 

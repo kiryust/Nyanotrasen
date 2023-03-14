@@ -1,40 +1,40 @@
-ent-ClothingHeadHatHoodBioGeneral = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioGeneral = bio capucha
+    .desc = Una capucha que protege la cabeza y la cara de contaminaciones biológicas.
     .suffix = Generic
 
-ent-ClothingHeadHatHoodBioCmo = bio hood
+ent-ClothingHeadHatHoodBioCmo = bio capucha
     .desc = An advanced hood for chief medical officer that protects the head and face from biological contaminants.
     .suffix = CMO
 
-ent-ClothingHeadHatHoodBioJanitor = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioJanitor = bio capucha
+    .desc = Una capucha que protege la cabeza y la cara de contaminaciones biológicas.
     .suffix = Janitor
 
-ent-ClothingHeadHatHoodBioScientist = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioScientist = bio capucha
+    .desc = Una capucha que protege la cabeza y la cara de contaminaciones biológicas.
     .suffix = Science
 
-ent-ClothingHeadHatHoodBioSecurity = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioSecurity = bio capucha
+    .desc = Una capucha que protege la cabeza y la cara de contaminaciones biológicas.
     .suffix = Security
 
-ent-ClothingHeadHatHoodBioVirology = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioVirology = bio capucha
+    .desc = Una capucha que protege la cabeza y la cara de contaminaciones biológicas.
     .suffix = Virology
 
-ent-ClothingHeadHatHoodChaplainHood = chaplain hood
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodChaplainHood = capucha de capellán
+    .desc = La mayor piedad de este sistema solar.
     .suffix = Virology
 
-ent-ClothingHeadHatHoodCulthood = cult hood
-    .desc = There's no cult without cult hoods.
+ent-ClothingHeadHatHoodCulthood = capucha de cultista
+    .desc = No puede haber un culto sin capuchas de cultista.
     .suffix = Virology
 
-ent-ClothingHeadHatHoodNunHood = nun hood
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodNunHood = capucha de monja
+    .desc = La mayor piedad de este sistema solar.
     .suffix = Virology
 
-ent-ClothingHeadHatHoodRad = radiation hood
-    .desc = A hood of the hazmat suit, designed for protection from high radioactivity.
+ent-ClothingHeadHatHoodRad = capucha anti radiación
+    .desc = La capucha del traje de materiales peligrosos, diseñada para proteger de altos niveles de radiación.
     .suffix = Virology
 

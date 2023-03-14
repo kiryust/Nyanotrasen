@@ -1,104 +1,104 @@
-ent-ClothingHeadHatBluesoft = blue cap
-    .desc = It's a baseball hat in a tasteless blue colour.
+ent-ClothingHeadHatBluesoft = gorra azul
+    .desc = Una gorra de béisbol de un color azul insípido.
     .suffix = { "" }
 
-ent-ClothingHeadHatBluesoftFlipped = blue cap flipped
-    .desc = It's a baseball hat in a tasteless blue colour. Flipped.
+ent-ClothingHeadHatBluesoftFlipped = gorra azul volteada
+    .desc = Una gorra de béisbol de un color azul insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatCargosoft = cargo cap
-    .desc = It's a baseball hat painted in Cargo colours.
+ent-ClothingHeadHatCargosoft = gorra de cargo
+    .desc = Una gorra de béisbol pintada con los colores de cargo.
     .suffix = { "" }
 
-ent-ClothingHeadHatCargosoftFlipped = cargo cap flipped
-    .desc = It's a baseball hat painted in Cargo colours. Flipped.
+ent-ClothingHeadHatCargosoftFlipped = gorra de cargo inversa
+    .desc = Una gorra de béisbol pintada con los colores de cargo. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatQMsoft = quartermaster's cap
-    .desc = It's a baseball hat painted in the Quartermaster's colors.
+ent-ClothingHeadHatQMsoft = gorra de oficial de intendencia
+    .desc = Una gorra de béisbol pintada con los colores del oficial de intendencia.
     .suffix = { "" }
 
-ent-ClothingHeadHatQMsoftFlipped = quartermaster's cap flipped
-    .desc = It's a baseball hat painted in the Quartermaster's colors. Flipped.
+ent-ClothingHeadHatQMsoftFlipped = gorra de oficial de intendencia invertida
+    .desc = Una gorra de béisbol pintada con los colores del oficial de intendencia. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatCorpsoft = corporate cap
-    .desc = A baseball bat in corporation colors.
+ent-ClothingHeadHatCorpsoft = gorra corporativa
+    .desc = Una gorra de béisbol con colores corporativos.
     .suffix = { "" }
 
-ent-ClothingHeadHatCorpsoftFlipped = corporate cap flipped
-    .desc = A baseball bat in corporation colors. Flipped.
+ent-ClothingHeadHatCorpsoftFlipped = gorra corporativa invertida
+    .desc = Una gorra de béisbol con colores corporativos. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatGreensoft = green cap
-    .desc = It's a baseball hat in a tasteless green colour.
+ent-ClothingHeadHatGreensoft = gorra verde
+    .desc = Una gorra de béisbol de un color verde insípido.
     .suffix = { "" }
 
-ent-ClothingHeadHatGreensoftFlipped = green cap flipped
-    .desc = It's a baseball hat in a tasteless green colour. Flipped.
+ent-ClothingHeadHatGreensoftFlipped = gorra verde invertida
+    .desc = Una gorra de béisbol de un color verde insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatGreysoft = grey cap
-    .desc = It's a baseball hat in a tasteless grey colour.
+ent-ClothingHeadHatGreysoft = gorra gris
+    .desc = Una gorra de béisbol de un color gris insípido
     .suffix = { "" }
 
-ent-ClothingHeadHatGreysoftFlipped = grey cap flipped
-    .desc = It's a baseball hat in a tasteless grey colour. Flipped.
+ent-ClothingHeadHatGreysoftFlipped = gorra gris invertida
+    .desc = Una gorra de béisbol de un color gris insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatMimesoft = mime cap
-    .desc = It's a baseball hat in a tasteless white colour.
+ent-ClothingHeadHatMimesoft = gorra de mimo
+    .desc = Una gorra de béisbol de un color blanco insípido
     .suffix = { "" }
 
-ent-ClothingHeadHatMimesoftFlipped = mime cap flipped
-    .desc = It's a baseball hat in a tasteless white colour. Flipped.
+ent-ClothingHeadHatMimesoftFlipped = gorra de mimo invertida
+    .desc = Una gorra de béisbol de un color blanco insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatOrangesoft = orange cap
-    .desc = It's a baseball hat in a good-looking orange colour.
+ent-ClothingHeadHatOrangesoft = gorra naranja
+    .desc = Una gorra de béisbol de un bonito color naranja.
     .suffix = { "" }
 
-ent-ClothingHeadHatOrangesoftFlipped = orange cap flipped
-    .desc = It's a baseball hat in a good-looking orange colour. Flipped.
+ent-ClothingHeadHatOrangesoftFlipped = gorra naranja invertida
+    .desc = Una gorra de béisbol de un bonito color naranja. Invertida
     .suffix = { "" }
 
-ent-ClothingHeadHatPurplesoft = purple cap
-    .desc = It's a baseball hat in a tasteless purple colour.
+ent-ClothingHeadHatPurplesoft = gorra púrpura
+    .desc = Una gorra de béisbol de un color púrpura insípido.
     .suffix = { "" }
 
-ent-ClothingHeadHatPurplesoftFlipped = purple cap flipped
-    .desc = It's a baseball hat in a tasteless purple colour. Flipped.
+ent-ClothingHeadHatPurplesoftFlipped = gorra púrpura invertida
+    .desc = Una gorra de béisbol de un color púrpura insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatRedsoft = red cap
-    .desc = It's a baseball hat in a tasteless red colour.
+ent-ClothingHeadHatRedsoft = gorra roja
+    .desc = Una gorra de béisbol de un color rojo insípido.
     .suffix = { "" }
 
-ent-ClothingHeadHatRedsoftFlipped = red cap flipped
-    .desc = It's a baseball hat in a tasteless purple colour. Flipped.
+ent-ClothingHeadHatRedsoftFlipped = gorra roja invertida
+    .desc = Una gorra de béisbol de un color rojo insípido. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatSecsoft = security cap
-    .desc = It's a robust baseball hat in tasteful red colour.
+ent-ClothingHeadHatSecsoft = gorra de seguridad
+    .desc = Una gorra de béisbol robusta de un bonito color rojo.
     .suffix = { "" }
 
-ent-ClothingHeadHatSecsoftFlipped = security cap flipped
-    .desc = It's a robust baseball hat in tasteful red colour. Flipped.
+ent-ClothingHeadHatSecsoftFlipped = gorra de seguridad invertida
+    .desc = Una gorra de béisbol robusta de un bonito color rojo. Invertida.
     .suffix = { "" }
 
-ent-ClothingHeadHatYellowsoft = yellow cap
-    .desc = A yellow baseball hat.
+ent-ClothingHeadHatYellowsoft = gorra amarilla
+    .desc = Una gorra de béisbol amarilla.
     .suffix = { "" }
 
-ent-ClothingHeadHatYellowsoftFlipped = yellow cap flipped
-    .desc = A yellow flipped baseball hat.
+ent-ClothingHeadHatYellowsoftFlipped = gorra amarilla invertida
+    .desc = Una gorra de béisbol amarilla invertida.
     .suffix = { "" }
 
 ent-ClothingHeadHatBizarreSoft = troublemaker's soft
-    .desc = A truly.. bizarre accessory.
+    .desc = Un accesorio realmente... bizarro.
     .suffix = { "" }
 
 ent-ClothingHeadHatBizarreSoftFlipped = troublemaker's soft flipped
-    .desc = A truly.. bizarre accessory, flipped.
+    .desc = Un accesorio realmente... bizarro. Invertido
     .suffix = { "" }
 

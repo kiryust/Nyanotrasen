@@ -1,25 +1,25 @@
-ent-ClothingHeadHatBunny = bunny ears
-    .desc = Cute bunny ears.
+ent-ClothingHeadHatBunny = orejas de conejo
+    .desc = Orejas de conejo lindas.
     .suffix = { "" }
 
-ent-ClothingHeadHatCake = cake hat
-    .desc = You put the cake on your head. Brilliant.
+ent-ClothingHeadHatCake = sombrero de tarta
+    .desc = Te has puesto una tarta en la cabeza. Brillante.
     .suffix = { "" }
 
-ent-ClothingHeadHatChickenhead = chicken head
-    .desc = It's a chicken head. Bok bok bok!
+ent-ClothingHeadHatChickenhead = cabeza de gallina
+    .desc = Una cabeza de gallina. Kikirikí!
     .suffix = { "" }
 
-ent-ClothingHeadHatFlowerCrown = flower crown
-    .desc = A coronet of fresh and fragrant flowers.
+ent-ClothingHeadHatFlowerCrown = corona de flores
+    .desc = Una corona hecha de flores aromáticas.
     .suffix = { "" }
 
-ent-ClothingHeadHatHairflower = hairflower
-    .desc = A red rose for beautiful ladies.
+ent-ClothingHeadHatHairflower = flor de pelo
+    .desc = Una rosa roja para señoritas preciosas.
     .suffix = { "" }
 
-ent-ClothingHeadHatPumpkin = pumpkin hat
-    .desc = A jack o' lantern! Believed to ward off evil spirits.
+ent-ClothingHeadHatPumpkin = sombrero de calabaza
+    .desc = Una calabaza! Dicen que ahuyenta los malos espíritus.
     .suffix = { "" }
 
 ent-ClothingHeadHatPwig = pwig
@@ -27,26 +27,26 @@ ent-ClothingHeadHatPwig = pwig
     .suffix = { "" }
 
 ent-ClothingHeadHatRichard = richard
-    .desc = Do you like hurting people?
+    .desc = ¿Te gusta hacer daño a otras personas? 
     .suffix = { "" }
 
-ent-ClothingHeadHatSkub = skub hat
-    .desc = Best paired with the Skub Suit.
+ent-ClothingHeadHatSkub = sombrero de mofeta
+    .desc = Combina mejor con el traje de mofeta.
     .suffix = { "" }
 
-ent-ClothingHeadHatShrineMaidenWig = shrine maiden's wig
-    .desc = The tag reads "All proceeds go to the Hakurei Shrine."
+ent-ClothingHeadHatShrineMaidenWig = peluca de doncella del santuario
+    .desc = En la etiqueta pone "Todas las ganancias van al santuario Hakurei."
     .suffix = { "" }
 
-ent-ClothingHeadHatCone = warning cone
-    .desc = This cone is trying to warn you of something!
+ent-ClothingHeadHatCone = cono de advertencia
+    .desc = Este cono está intentando avisarte de algo!
     .suffix = { "" }
 
-ent-ClothingHeadHatFancyCrown = fancy crown
-    .desc = It smells like dead rat. Lets you speak like one!
+ent-ClothingHeadHatFancyCrown = corona bonita
+    .desc = Huele a ratas muertes. Te deja hablar como una!
     .suffix = { "" }
 
-ent-ClothingHeadHatCatEars = cat ears
+ent-ClothingHeadHatCatEars = orejas de gato
     .desc = NYAH!
     .suffix = { "" }
 
