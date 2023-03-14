@@ -1,32 +1,32 @@
-ent-HatBandBlack = black bandana
-    .desc = A black bandana to make you look cool.
+ent-HatBandBlack = bandana negra
+    .desc = Una bandana negra para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandBlue = blue bandana
-    .desc = A blue bandana to make you look cool.
+ent-HatBandBlue = bandana azul
+    .desc = Una bandana azul para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandBotany = botany bandana
-    .desc = A botany bandana to make you look cool, made from natural fibers.
+ent-HatBandBotany = bandana de botánica
+    .desc = Una bandana de botánica para lucir bien chulo, hecha de fibras naturales.
     .suffix = { "" }
 
-ent-HatBandGold = gold bandana
-    .desc = A gold bandana to make you look cool.
+ent-HatBandGold = bandana dorada
+    .desc = Una bandana dorada para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandGreen = green bandana
-    .desc = A green bandana to make you look cool.
+ent-HatBandGreen = bandana verde
+    .desc = Una bandana verde para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandGrey = grey bandana
-    .desc = A grey bandana to make you look cool.
+ent-HatBandGrey = bandana gris
+    .desc = Una bandana gris para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandRed = red bandana
-    .desc = A red bandana to make you look cool.
+ent-HatBandRed = bandana roja
+    .desc = Una bandana roja para lucir bien chulo.
     .suffix = { "" }
 
-ent-HatBandSkull = skull bandana
-    .desc = A bandana with a skull to make you look even cooler.
+ent-HatBandSkull = bandana con calavera
+    .desc = Una bandana con una calavera para lucir incluso más chulo.
     .suffix = { "" }
 

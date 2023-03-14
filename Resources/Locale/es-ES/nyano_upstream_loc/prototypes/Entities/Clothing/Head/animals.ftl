@@ -1,20 +1,20 @@
-ent-ClothingHeadHatAnimalCat = grey cat hat
-    .desc = A cute and fluffy head of a grey cat.
+ent-ClothingHeadHatAnimalCat = sombrero de gato gris
+    .desc = Una preciosa y suave cabeza de gato gris.
     .suffix = { "" }
 
-ent-ClothingHeadHatAnimalCatBrown = brown cat hat
-    .desc = A cute and fluffy head of a brown cat.
+ent-ClothingHeadHatAnimalCatBrown = sombrero de gato marrón
+    .desc = Una preciosa y suave cabeza de gato marrón.
     .suffix = { "" }
 
-ent-ClothingHeadHatAnimalCatBlack = black cat hat
-    .desc = A cute and fluffy head of a black cat.
+ent-ClothingHeadHatAnimalCatBlack = sombrero de gato negro
+    .desc = Una preciosa y suave cabeza de gato negro
     .suffix = { "" }
 
-ent-ClothingHeadHatAnimalHeadslime = headslime hat
-    .desc = A green, sticky headslime, you put it on your head.
+ent-ClothingHeadHatAnimalHeadslime = sombrero de cabeza de slime
+    .desc = Una cabeza de slime verde y pegajosa, pues ponértela en la cabeza.
     .suffix = { "" }
 
-ent-ClothingHeadHatAnimalMonkey = monkey hat
-    .desc = That's a monkey head. It has a hole on a mouth to eat bananas.
+ent-ClothingHeadHatAnimalMonkey = cabeza de mono
+    .desc = Una cabeza de mono. Tiene un agujero en la boca para comer plátanos.
     .suffix = { "" }
 

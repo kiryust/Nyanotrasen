@@ -1,96 +1,96 @@
-ent-ClothingHeadHelmetHardsuitAtmos = atmos hardsuit helmet
-    .desc = A special hardsuit helmet designed for working in low-pressure, high thermal environments.
+ent-ClothingHeadHelmetHardsuitAtmos = casco de escafandra de atmosférico
+    .desc = Un casco de escafandra especial diseñado para trabajar en ambientes de baja presión y temperaturas altas.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitCap = captain's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the captain of the station.
+ent-ClothingHeadHelmetHardsuitCap = casco de escafandra de capitán
+    .desc = Casco de escafandra especial, diseñado para el capitán de la estación.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = deathsquad hardsuit helmet
-    .desc = A robust helmet for special operations.
+ent-ClothingHeadHelmetHardsuitDeathsquad = casco de escafandra de escuadrón de la muerte
+    .desc = Un casco robusto para operaciones especiales.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitEngineering = engineering hardsuit helmet
-    .desc = An engineering hardsuit helmet designed for working in low-pressure, high radioactive environments.
+ent-ClothingHeadHelmetHardsuitEngineering = casco de escafandra de ingeniero
+    .desc = Un casco de escafandra de ingenierio diseñado para trabajar en ambientes de baja presión y con alta radioactividad.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = chief engineer's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the chief engineer of the station.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = casco de escafandra de ingeniero jefe
+    .desc = Un casco de escafandra especial, diseñado para el ingeniero jefe de la estación.
     .suffix = { "" }
 
 ent-ClothingHeadHelmetIHSVoidHelm = IHS voidhelm
     .desc = A robust, tactical IHS helmet.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitMedical = chief medical officer's hardsuit helmet
-    .desc = Lightweight medical hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitMedical = casco de escafandra de director médico
+    .desc = Un casco de escafandra ligero que no restringe tus movimientos de cabeza.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitRd = experimental research hardsuit helmet
-    .desc = Lightweight hardsuit helmet that has a galaxy-first psionic passthrough system.
+ent-ClothingHeadHelmetHardsuitRd = casco de escafandra experimental
+    .desc = Casco de escafandra ligero que tiene uno de los primeros sistemas de paso de psiónicos.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSalvage = salvage hardsuit helmet
-    .desc = A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
+ent-ClothingHeadHelmetHardsuitSalvage = casco de escafandra de salvamento
+    .desc = Un casco especial diseñado para trabajar en ambientes a baja presión. Tiene placas reforzadas para proteger en caso de encontronazo con vida silvestre. Además de dos focos.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSecurity = security hardsuit helmet
-    .desc = Armored hardsuit helmet for security needs.
+ent-ClothingHeadHelmetHardsuitSecurity = casco de escafandra de seguridad
+    .desc = Casco de escafandra reforzado para cubrir las necesidades de seguridad.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = head of security's hardsuit helmet
-    .desc = Security hardsuit helmet with the latest top secret NT-HUD software. Belongs to the HoS.
+ent-ClothingHeadHelmetHardsuitSecurityRed = casco de escafandra de jefe de seguridad
+    .desc = Casco de escafandra de seguridad equipado con el software top secret NT-HUD. Pertenece al Jefe de Seguridad
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSyndie = blood red hardsuit helmet
-    .desc = An advanced red hardsuit helmet designed for work in special operations.
+ent-ClothingHeadHelmetHardsuitSyndie = casco de escafandra rojo sangre
+    .desc = Un casco de escafandra rojo diseñado para trabajar en operaciones especiales.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitWizard = wizard hardsuit helmet
-    .desc = A bizarre gem-encrusted helmet that radiates magical energies.
+ent-ClothingHeadHelmetHardsuitWizard = casco de escafandra de mago
+    .desc = Un casco bizarro incrustado de gemas que irradia energía mágica.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitLing = organic space helmet
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingHeadHelmetHardsuitLing = casco espacial orgánico
+    .desc = Un tejido de biomasa espacial resistente a la presión y a la temperatura.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSpatio = spationaut hardsuit helmet
-    .desc = A sturdy helmet designed for complex industrial operations in space.
+ent-ClothingHeadHelmetHardsuitSpatio = casco de escafandra de espacionauta
+    .desc = Un casco resistente diseñado para operaciones complejas en el espacio.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitCybersun = cybersun juggernaut helmet
-    .desc = Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
+ent-ClothingHeadHelmetHardsuitCybersun = casco de gigante del cibersol
+    .desc = Hecho de materia roja comprimida, este casco fue diseñado en la cromoesfera Tau.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = syndicate commander helmet
-    .desc = A syndicate hardsuit helmet custom designed for commanders of syndicate operative squads.
+ent-ClothingHeadHelmetHardsuitSyndieCommander = casco de comandante del sindicato
+    .desc = Un casco del sindicato diseñado para comandantes de escuadrón.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = syndicate elite helmet
-    .desc = A variant of the blood red helmet designed by the gorlax marauders to be exceptionally fireproof and pressure proof.
+ent-ClothingHeadHelmetHardsuitSyndieElite = casco de élite del sindicato
+    .desc = Una variante del casco rojo sangre diseñado por los merodeadores gorlax para ser ignífugo y resistente a las presiones.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetCBURN = syndicate elite helmet
-    .desc = A pressure resistant and fireproof hood worn by special cleanup units.
+ent-ClothingHeadHelmetCBURN = casco de élite del sindicato
+    .desc = Una capucha resistente a la presión e ignífuga llevada por unidades especiales de limpieza.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTLeader = casco de escafandra de líder de ERE
+    .desc = Un casco de escafandra especial que llevan los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitERTEngineer = ERT engineer hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTEngineer = casco de escafandra de ingeniero de ERE
+    .desc = Un casco de escafandra especial que llevan los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitERTMedical = ERT medic hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTMedical = casco de escafandra de médico de ERE
+    .desc = Un casco de escafandra especial que llevan los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitERTSecurity = ERT security hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTSecurity = casco de escafandra de guardia de ERE
+    .desc = Un casco de escafandra especial que llevan los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
-ent-ClothingHeadHelmetHardsuitERTJanitor = ERT janitor hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTJanitor = casco de escafandra de conserje de ERE
+    .desc = Un casco de escafandra especial que llevan los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 

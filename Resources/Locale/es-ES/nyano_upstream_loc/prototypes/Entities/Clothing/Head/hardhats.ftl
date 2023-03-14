@@ -1,20 +1,20 @@
-ent-ClothingHeadHatHardhatBlue = blue hard hat
-    .desc = A hard hat, painted in blue, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatBlue = casco de seguridad azul
+    .desc = Un casco de seguridad, pintado de azul, se utiliza en condiciones laborales de riesgo para proteger la cabeza.
     .suffix = { "" }
 
-ent-ClothingHeadHatHardhatOrange = orange hard hat
-    .desc = A hard hat, painted in orange, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatOrange = casco de seguridad naranja
+    .desc = Un casco de seguridad, pintado de naranja, se utiliza en condiciones laborales de riesgo para proteger la cabeza. Viene con una linterna incorporada.
     .suffix = { "" }
 
-ent-ClothingHeadHatHardhatRed = red hard hat
-    .desc = A hard hat, painted in red, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatRed = casco de seguridad rojo
+    .desc = Un casco de seguridad, pintado de rojo, se utiliza en condiciones laborales de riesgo para proteger la cabeza. Viene con una linterna incorporada.
     .suffix = { "" }
 
-ent-ClothingHeadHatHardhatWhite = white hard hat
-    .desc = A hard hat, painted in white, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatWhite = casco de seguridad blanco
+    .desc = Un casco de seguridad, pintado de blanco, se utiliza en condiciones laborales de riesgo para proteger la cabeza. Viene con una linterna incorporada.
     .suffix = { "" }
 
-ent-ClothingHeadHatHardhatYellow = yellow hard hat
-    .desc = A hard hat, painted in yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatYellow = casco de seguridad amarillo
+    .desc = Un casco de seguridad, pintado de amarillo, se utiliza en condiciones laborales de riesgo para proteger la cabeza. Viene con una linterna incorporada.
     .suffix = { "" }
 

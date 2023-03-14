@@ -1,16 +1,16 @@
-ent-ClothingHeadLightBase = base helmet with light
+ent-ClothingHeadLightBase = casco base con luz
     .desc = { "" }
     .suffix = { "" }
 
-ent-ClothingHeadEVAHelmetBase = base space helmet
+ent-ClothingHeadEVAHelmetBase = casco espacial base
     .desc = { "" }
     .suffix = { "" }
 
-ent-ClothingHeadHardsuitBase = base hardsuit helmet
+ent-ClothingHeadHardsuitBase = casco de escafandra base
     .desc = { "" }
     .suffix = { "" }
 
-ent-ClothingHeadHardsuitWithLightBase = base hardsuit helmet with light
+ent-ClothingHeadHardsuitWithLightBase = casco de escafandra base con luz
     .desc = { "" }
     .suffix = { "" }
 
