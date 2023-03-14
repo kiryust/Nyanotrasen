@@ -1,4 +1,4 @@
-ent-ClothingHeadset = auriculares
+ent-ClothingHeadset = auricular
     .desc = Un intercomunicador modular que cabe en tu cabeza. Utiliza claves de cifrado.
     .suffix = { "" }
 
