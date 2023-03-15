@@ -1,52 +1,52 @@
-ent-ClothingNeckCloakCap = captain's cloak
-    .desc = A pompous and comfy blue cloak with a nice gold trim, while not particularly valuable as your other possessions, it sure is fancy.
+ent-ClothingNeckCloakCap = capa de capitán
+    .desc = Una capa azul cómoda y pomposa con un bordado de oro, no es tan valiosa el resto de tus posesiones, pero es bastante bonita.
     .suffix = { "" }
 
-ent-ClothingNeckCloakHos = head of security's cloak
-    .desc = An exquisite dark and red cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
+ent-ClothingNeckCloakHos = capa del jefe de seguridad
+    .desc = Una exquisita capa roja y negra para aquellos capaces de establecer su dominancia sobre la gente problemática. ¡Atrévete a ser un civil en la acusación!
     .suffix = { "" }
 
-ent-ClothingNeckCloakCe = chief engineer's cloak
-    .desc = A dark green cloak with light blue ornaments, given to those who proved themselves to master the precise art of engineering.
+ent-ClothingNeckCloakCe = capa de jefe ingeniero
+    .desc = Una capa verde y negra con ornamentos azul claro, otorgado a aquellos que han demostrado dominar el arte de la ingeniería .
     .suffix = { "" }
 
-ent-ClothingCloakCmo = chief medical officer's cloak
-    .desc = A sterile blue cloak with a green cross, radiating with a sense of duty and willingness to help others.
+ent-ClothingCloakCmo = capa de médico jefe
+    .desc = Una capa azul con una cruz verde, irradia un alto sentido del deber y voluntad de ayudar a los demás.
     .suffix = { "" }
 
-ent-ClothingNeckCloakRd = research director's cloak
-    .desc = A white cloak with violet stripes, showing your status as the arbiter of cutting-edge technology.
+ent-ClothingNeckCloakRd = capa de director de investigación
+    .desc = Una capa blanca con rayas violetas, demostrando tu estatus como árbitro de la tecnología de vanguardia.
     .suffix = { "" }
 
-ent-ClothingNeckCloakQm = quartermaster's cloak
-    .desc = A strong brown cloak with a reflective stripe, while not as fancy as others, it does show your managing skills.
+ent-ClothingNeckCloakQm = capa de oficial de intendencia
+    .desc = Una capa marrón con una raya brillante, no es tan bonita como las demás, pero demuestra tus habilidades de gestión.
     .suffix = { "" }
 
-ent-ClothingNeckCloakHop = head of personnel's cloak
-    .desc = A blue cloak with red shoulders and gold buttons, proving you are the gatekeeper to any airlock on the station.
+ent-ClothingNeckCloakHop = capa de jefe de personal
+    .desc = Una capa azul con hombros rojos y botones de oro, demostrando que eres el guardían de cualquier esclusa de aire de la estación.
     .suffix = { "" }
 
-ent-ClothingNeckCloakHerald = herald's cloak
-    .desc = An evil-looking red cloak with spikes on its shoulders.
+ent-ClothingNeckCloakHerald = capa de heraldo
+    .desc = Una capa roja de aspecto maligno con pinchos en los hombros.
     .suffix = { "" }
 
-ent-ClothingNeckCloakNanotrasen = nanotrasen cloak
-    .desc = A stately blue cloak to represent NanoTrasen.
+ent-ClothingNeckCloakNanotrasen = capa de nanotrasen
+    .desc = Una majestuosa capa azul para representar a Nanotrasen.
     .suffix = { "" }
 
-ent-ClothingNeckCloakCapFormal = captain's formal cloak
-    .desc = A lavish and decorated cloak for special occasions.
+ent-ClothingNeckCloakCapFormal = capa formal de capitán
+    .desc = Una capa lujosa y decorada para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingNeckCloakAdmin = admin cloak
+ent-ClothingNeckCloakAdmin = capa de administrador
     .desc = Weh!
     .suffix = { "" }
 
-ent-ClothingNeckCloakMiner = miner's cloak
-    .desc = Worn by the most skilled miners, for one who has moved mountains and filled valleys.
+ent-ClothingNeckCloakMiner = capa de minero
+    .desc = Usado por los mejores mineros, para aquellos que han movido montañas y llenado valles.
     .suffix = { "" }
 
-ent-ClothingNeckCloakTrans = vampire cloak
-    .desc = Worn by high ranking vampires of the transylvanian society of vampires.
+ent-ClothingNeckCloakTrans = capa de vampiro
+    .desc = Usada por vampiros de alto rango de la sociedad de vampiros de transylvania.
     .suffix = { "" }
 

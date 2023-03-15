@@ -1,24 +1,24 @@
-ent-ClothingNeckMantleCap = captain's mantle
-    .desc = A comfortable and chique mantle befitting of only the most experienced captain.
+ent-ClothingNeckMantleCap = manto de capitán
+    .desc = Un manto cómodo y chic solo para los capitanes más experimentados.
     .suffix = { "" }
 
-ent-ClothingNeckMantleCE = chief engineer's mantle
-    .desc = High visibility, check. RIG system, check. High capacity cell, check. Everything a chief engineer could need in a stylish mantle.
+ent-ClothingNeckMantleCE = manto de ingeniero jefe
+    .desc = Alta visibilidad, check. Sistema RIG, check. Pilas de alta capacidad, check. Todo lo que un ingeniero jefe necesita.
     .suffix = { "" }
 
-ent-ClothingNeckMantleCMO = chief medical officer's mantle
-    .desc = For a CMO that has been in enough medbays to know that more PPE means less central command dry cleaning visits when the shift is over.
+ent-ClothingNeckMantleCMO = manto de director médico
+    .desc = Para un director médico que ha visto suficientes áreas médicas como para saber que más EPP significan menos visitas de limpieza en seco al comando central cuando termine el turno.
     .suffix = { "" }
 
-ent-ClothingNeckMantleHOP = head of personnel's mantle
-    .desc = A good HOP knows that paper pushing is only half the job... petting your dog and looking fashionable is the other half.
+ent-ClothingNeckMantleHOP = manto de jefe de personal
+    .desc = Un buen jefe de personal sabe que el papeleo es tan solo la mitad del trabajo...  acariciar a tu perro y aparentar chulo es la otra mitad.
     .suffix = { "" }
 
-ent-ClothingNeckMantleHOS = head of security's mantle
-    .desc = Shootouts with nukies are just another tuesday for this HoS. This mantle is a symbol of commitment to the station.
+ent-ClothingNeckMantleHOS = manto de jefe de seguridad
+    .desc = Un tiroteo contra agentes nucleares es un martes cualquiera para este jefe de seguridad. Este manto es un símbolo de compromiso con la estación.
     .suffix = { "" }
 
-ent-ClothingNeckMantleRD = research director's mantle
-    .desc = For when long days in the office consist of explosives, poisonous gas, murder robots, and a fresh pizza from cargo; this mantle will keep you comfy.
+ent-ClothingNeckMantleRD = manto de director de investigación
+    .desc = Para cuando los días largos en la oficina consisten en explosiones, gases venenosos, robots asesinos y pizza fresca de cargo. Este manto te mantendrá cómodo.
     .suffix = { "" }
 

@@ -1,8 +1,8 @@
-ent-ClothingNeckTieRed = red-tie
-    .desc = A neosilk clip-on red tie.
+ent-ClothingNeckTieRed = corbata roja
+    .desc = Una corbata roja con clip hecha de neoseda.
     .suffix = { "" }
 
-ent-ClothingNeckTieDet = detective's tie
-    .desc = A loosely tied necktie, a perfect accessory for the over-worked detective.
+ent-ClothingNeckTieDet = corbata de detective
+    .desc = Una corbata medio desatada, el accesorio perfecto para un detective con exceso de trabajo.
     .suffix = { "" }
 

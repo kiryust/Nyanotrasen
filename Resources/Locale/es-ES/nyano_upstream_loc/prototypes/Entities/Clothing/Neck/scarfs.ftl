@@ -1,16 +1,16 @@
-ent-ClothingNeckScarfStripedRed = striped red scarf
-    .desc = A stylish striped red scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedRed = bufanda roja a rayas
+    .desc = Una estilosa bufanda roja a rayas. El accesorio de invierno perfecto para aquellos con sentido de moda, y aquellos que no soportan una brisa fría en su cuello.
     .suffix = { "" }
 
-ent-ClothingNeckScarfStripedBlue = striped blue scarf
-    .desc = A stylish striped blue scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBlue = bufanda azul a rayas
+    .desc = Una estilosa bufanda azul a rayas. El accesorio de invierno perfecto para aquellos con sentido de moda, y aquellos que no soportan una brisa fría en su cuello.
     .suffix = { "" }
 
-ent-ClothingNeckScarfStripedGreen = striped green scarf
-    .desc = A stylish striped green scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedGreen = bufanda verde a rayas
+    .desc = Una estilosa bufanda verde a rayas. El accesorio de invierno perfecto para aquellos con sentido de moda, y aquellos que no soportan una brisa fría en su cuello.
     .suffix = { "" }
 
-ent-ClothingNeckScarfStripedZebra = zebra scarf
-    .desc = A striped scarf, a mandatory accessory for artists.
+ent-ClothingNeckScarfStripedZebra = bufanda de cebra
+    .desc = Una bufanda a rayas, accesorio obligatorio para artistas.
     .suffix = { "" }
 
