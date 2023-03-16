@@ -1,48 +1,48 @@
-ent-ClothingOuterArmorReflective = reflective vest
-    .desc = An armored vest with advanced shielding to protect against energy weapons.
+ent-ClothingOuterArmorReflective = chaleco reflector
+    .desc = Un chaleco blindado con tecnología avanzada para proteger contra armas de energía.
     .suffix = { "" }
 
-ent-ClothingOuterArmorBulletproof = bulletproof vest
-    .desc = An armored vest with heavy plates to protect against ballistic projectiles.
+ent-ClothingOuterArmorBulletproof = chaleco antibalas
+    .desc = Un chaleco blindado con relleno blindado para protegerte contra proyectiles balísticos.
     .suffix = { "" }
 
-ent-ClothingOuterArmorCult = acolyte armor
-    .desc = An evil-looking piece of cult armor, made of bones.
+ent-ClothingOuterArmorCult = armadura de acólito
+    .desc = Una armadura de acólito de aspecto maligno, hecha de huesos.
     .suffix = { "" }
 
-ent-ClothingOuterArmorHeavy = heavy armor suit
-    .desc = A heavily armored suit that protects against excessive damage.
+ent-ClothingOuterArmorHeavy = traje de armadura pesada
+    .desc = Un traje de armadura pesada que protege contra daños excesivos.
     .suffix = { "" }
 
-ent-ClothingOuterArmorHeavyGreen = green heavy armor suit
-    .desc = A heavily armored suit with green accents that protects against excessive damage.
+ent-ClothingOuterArmorHeavyGreen = traje de armadura pesada verde
+    .desc = Un traje de armadura pesada con detalles verdes que protege contra mucho daño.
     .suffix = { "" }
 
-ent-ClothingOuterArmorHeavyRed = red heavy armor suit
-    .desc = A heavily armored suit with red accents that protects against excessive damage.
+ent-ClothingOuterArmorHeavyRed = traje de armadura pesada roja
+    .desc = Un traje de armadura pesada con detalles rojos que protege contra mucho daño.
     .suffix = { "" }
 
-ent-ClothingOuterArmorMagusblue = blue magus armor
-    .desc = An blue armored suit that provides good protection.
+ent-ClothingOuterArmorMagusblue = armadura de mago azul
+    .desc = Un traje blindado azul que proporciona una buena protección.
     .suffix = { "" }
 
-ent-ClothingOuterArmorMagusred = red magus armor
-    .desc = A red armored suit that provides good protection.
+ent-ClothingOuterArmorMagusred = armadura de mago roja
+    .desc = Un traje blindado rojo que proporciona una buena protección.
     .suffix = { "" }
 
-ent-ClothingOuterArmorRiot = riot suit
-    .desc = An armored vest with heavy padding to protect against melee attacks, perfect for fighting delinquents around the station.
+ent-ClothingOuterArmorRiot = traje antidisturbios
+    .desc = Un chaleco blindado con relleno blindado para protegerte contra ataques cuerpo a cuerpo, perfecto para luchar contra delincuentes.
     .suffix = { "" }
 
-ent-ClothingOuterArmorScaf = scaf suit
-    .desc = A green and brown tactical suit for combat situations.
+ent-ClothingOuterArmorScaf = armadura de SCAF
+    .desc = Un traje táctico verde y marrón para situaciones de combate.
     .suffix = { "" }
 
-ent-ClothingOuterArmorCaptainCarapace = captain's carapace
-    .desc = An armored chestpiece that provides protection whilst still offering maximum mobility and flexibility. Issued only to the station's finest.
+ent-ClothingOuterArmorCaptainCarapace = caparazón de capitán
+    .desc = Un chaleco blindado que proporciona protección mientras ofrece una mobilidad y flexibilidad óptima. Entregado solo a los mejores de la estación.
     .suffix = { "" }
 
-ent-ClothingOuterArmorChangeling = chitinous armor
-    .desc = Inflates the changeling's body into an all-consuming chitinous mass of armor.
+ent-ClothingOuterArmorChangeling = armadura de quitina
+    .desc = Infla el cuerpo del usuario en una masa de armadura quitinosa que lo consume todo.
     .suffix = { "" }
 

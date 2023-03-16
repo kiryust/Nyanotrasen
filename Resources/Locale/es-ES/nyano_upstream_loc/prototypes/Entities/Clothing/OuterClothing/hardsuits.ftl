@@ -1,112 +1,112 @@
-ent-ClothingOuterHardsuitAtmos = atmos hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has thermal shielding.
+ent-ClothingOuterHardsuitAtmos = escafandra atmosférica
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene un blindaje térmico.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitCap = captain's armored spacesuit
-    .desc = A formal armored spacesuit, made for the station's captain.
+ent-ClothingOuterHardsuitCap = traje espacial del capitán
+    .desc = Un traje espacial blindado, hecho para el capitán de la estación.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitDeathsquad = deathsquad hardsuit
-    .desc = An advanced hardsuit favored by commandos for use in special operations.
+ent-ClothingOuterHardsuitDeathsquad = escafandra de escuadrón de la muerte
+    .desc = Una escafandra avanzada favorecida por los comandos durante operaciones especiales.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitEngineering = engineering hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has radiation shielding.
+ent-ClothingOuterHardsuitEngineering = escafandra de ingeniero
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene blindaje radiactivo.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitEngineeringWhite = chief engineer's hardsuit
-    .desc = A special hardsuit that protects against hazardous, low pressure environments, made for the chief engineer of the station.
+ent-ClothingOuterHardsuitEngineeringWhite = escafandra de ingeniero jefe
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión, hecho para el ingeniero jefe de la estación.
     .suffix = { "" }
 
-ent-IHSVoidsuit = IHS voidsuit
-    .desc = A special void suit that protects against hazardous, low pressure environments.
+ent-IHSVoidsuit = traje de vacío de IHS
+    .desc = Un traje de vacío especial que protege contra ambientes peligrosos a baja presión.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitEVA = EVA suit
-    .desc = A lightweight space suit with the basic ability to protect the wearer from the vacuum of space during emergencies.
+ent-ClothingOuterHardsuitEVA = traje EVA
+    .desc = Un traje espacial ligero con la capacidad básica de proteger al usuario del vacío del espacio durante emergencias.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSyndicate = syndicate EVA suit
-    .desc = Has a tag on it 'Totally not property of an enemy corporation, honest!'
+ent-ClothingOuterHardsuitSyndicate = traje EVA del sindicato
+    .desc = Tiene una etiqueta que dice "Para nada propiedad de una corporación enemiga, lo juro!"
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitEVAPrisoner = prisoner EVA suit
-    .desc = A lightweight space suit for prisoners to protect them from the vacuum of space during emergencies.
+ent-ClothingOuterHardsuitEVAPrisoner = traje EVA de prisionero
+    .desc = Un traje espacial ligero con la capacidad básica de proteger al usuario del vacío del espacio durante emergencias.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitMedical = chief medical officer's hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Built with lightweight materials for easier movement.
+ent-ClothingOuterHardsuitMedical = escafandra de director médico
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Hecho con materiales ligeros para un movimiento más cómodo.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitRd = experimental research hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
+ent-ClothingOuterHardsuitRd = escafandra de investigador
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene una capa adicional de armadura.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSalvage = salvage hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters.
+ent-ClothingOuterHardsuitSalvage = escafandra de salvamento
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene placas reforzadas para proteger en caso de encontronazo con vida silvestre.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSecurity = security hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
+ent-ClothingOuterHardsuitSecurity = escafandra de seguridad
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene una capa adicional de armadura.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSecurityRed = head of security's hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
+ent-ClothingOuterHardsuitSecurityRed = escafandra de jefe de seguridad
+    .desc = Un traje especial que protege contra ambientes peligrosos a baja presión. Tiene una capa adicional de armadura.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSyndie = blood red hardsuit
-    .desc = A heavily armored and agile advanced hardsuit designed for work in special operations.
+ent-ClothingOuterHardsuitSyndie = escafandra rojo sangre
+    .desc = Una armadura pesada diseñada para trabajar en operaciones especiales.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitWizard = wizard hardsuit
-    .desc = A bizarre gem-encrusted suit that radiates magical energies.
+ent-ClothingOuterHardsuitWizard = escafandra de mago
+    .desc = Un traje bizarro incrustado de gemas que irradia energía mágica.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitLing = organic space suit
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingOuterHardsuitLing = traje espacial orgánico
+    .desc = Una biomasa espacial de tejido resistente a la presión y temperatura.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSpatio = spationaut hardsuit
-    .desc = A lightweight hardsuit designed for industrial eva activies in zero grav.
+ent-ClothingOuterHardsuitSpatio = escafandra de spationaut 
+    .desc = Una escafandra ligera diseñada para actividades extravehiculares en gravedad cero.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitVoidParamed = Paramedic Void Suit
-    .desc = A void suit made for paramedics.
+ent-ClothingOuterHardsuitVoidParamed = traje de vacío de paramédico
+    .desc = Un traje de vacío hecho para paramédicos.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitJuggernaut = cybersun juggernaut suit
-    .desc = A suit made by the cutting edge R&D department at cybersun to be hyper resilient.
+ent-ClothingOuterHardsuitJuggernaut = traje de gigante del cibersol
+    .desc = Un traje diseñado por el departamento puntero de I+D del cibersol para ser hiperresistente.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
-    .desc = A blood red hardsuit heavily modified for use by the commander of operative squads.
+ent-ClothingOuterHardsuitSyndieCommander = escafandra de comandante del sindicato
+    .desc = Una escafandra rojo sangre muy modificada para uso del comandante de los escuadrones.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
-    .desc = An upgraded version of the blood red hardsuit that features enhanced fireproofing, pressure resist, and superior armor.
+ent-ClothingOuterHardsuitSyndieElite = escafandra de élite del sindicato
+    .desc = Una versión mejorada de la escafandra rojo sangre que es ignífuga, resistente a la presión y en general una mejor armadura. 
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitCBURN = CBURN exosuit
-    .desc = A lightweight yet strong exosuit used for special cleanup operations.
+ent-ClothingOuterHardsuitCBURN = exotraje de CBURN
+    .desc = Un exotraje ligero pero resistente usado para operaciones de limpieza especiales.
     .suffix = { "" }
 
-ent-ClothingOuterHardsuitERTLeader = ERT leader's hardsuit
-    .desc = A protective hardsuit worn by members of an emergency response team.
+ent-ClothingOuterHardsuitERTLeader = escafandra de líder de ERE
+    .desc = Una escafandra usada por los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
 ent-ClothingOuterHardsuitERTEngineer = ERT engineer's hardsuit
-    .desc = A protective hardsuit worn by members of an emergency response team.
+    .desc = Una escafandra usada por los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
 ent-ClothingOuterHardsuitERTMedical = ERT medic's hardsuit
-    .desc = A protective hardsuit worn by members of an emergency response team.
+    .desc = Una escafandra usada por los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
 ent-ClothingOuterHardsuitERTSecurity = ERT security's hardsuit
-    .desc = A protective hardsuit worn by members of an emergency response team.
+    .desc = Una escafandra usada por los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 
 ent-ClothingOuterHardsuitERTJanitor = ERT janitor's hardsuit
-    .desc = A protective hardsuit worn by members of an emergency response team.
+    .desc = Una escafandra usada por los miembros del Equipo de Respuesta a Emergencias.
     .suffix = { "" }
 

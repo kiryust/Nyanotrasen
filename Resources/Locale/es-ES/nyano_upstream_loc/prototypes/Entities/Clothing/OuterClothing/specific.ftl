@@ -1,4 +1,4 @@
-ent-ClothingOuterChameleon = vest
-    .desc = A thick vest with a rubbery, water-resistant shell.
+ent-ClothingOuterChameleon = chaleco
+    .desc = Un chaleco grueso de goma con una coraza resistente al agua.
     .suffix = Chameleon
 

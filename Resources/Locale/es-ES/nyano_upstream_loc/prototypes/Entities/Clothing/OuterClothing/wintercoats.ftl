@@ -1,112 +1,112 @@
-ent-ClothingOuterWinterCoat = winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCoat = abrigo de invierno
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterAtmos = atmospherics winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterAtmos = abrigo de invierno de técnico atmosférico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterBar = bartender winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterBar = abrigo de invierno de barman
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterCap = captain's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCap = abrigo de invierno de capitán
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterCargo = cargo winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCargo = abrigo de invierno de cargo
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterCE = chief engineer's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCE = abrigo de invierno de ingeniero jefe
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterCentcom = CentCom winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCentcom = abrigo de invierno de CentCom
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterChem = chemistry winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterChem = abrigo de invierno de químico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterCMO = chief medical officer's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCMO = abrigo de invierno de director médico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterClown = clown winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterClown = abrigo de invierno de payaso
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterEngi = engineering winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterEngi = abrigo de invierno de ingeniero
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterGen = genetics winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterGen = abrigo de invierno de geneticista
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterHoP = head of personnel's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterHoP = abrigo de invierno de jefe de personal
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterHoS = head of security's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterHoS = abrigo de invierno de jefe de seguridad
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterHydro = hydroponics winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterHydro = abrigo de invierno de hidropónica
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterJani = janitorial winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterJani = abrigo de invierno de conserje
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterMed = medical winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterMed = abrigo de invierno de médico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterMime = mime winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterMime = abrigo de invierno de mimo
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterMiner = mining winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterMiner = abrigo de invierno de minero
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterPara = paramedic winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterPara = abrigo de invierno de paramédico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterQM = quartermaster's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterQM = abrigo de invierno de oficial de intendencia
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterRD = research director's winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterRD = abrigo de invierno de director de investigación
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterRobo = robotics winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterRobo = abrigo de invierno de robótico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterSci = science winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterSci = abrigo de invierno de científico
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterSec = security winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterSec = abrigo de invierno de seguridad
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterViro = virology winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterViro = abrigo de invierno de virólogo
+    .desc = Una chaqueta pesada hecha de pieles "sintéticas" de animales.
     .suffix = { "" }
 
-ent-ClothingOuterWinterWarden = warden's armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
+ent-ClothingOuterWinterWarden = abrigo de invierno blindado de carcelero
+    .desc = Un abrigo de invierno resistente diseñado para proteger al carcelero de enemigos que amenacen la seguridad del calabozo.
     .suffix = { "" }
 
-ent-ClothingOuterWinterMusician = musician's winter coat
-    .desc = An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
+ent-ClothingOuterWinterMusician = abrigo de invierno músico
+    .desc = Un esmoquin espacial muy grande que hará que la gente te pregunte "Me conoces?"
     .suffix = { "" }
 

@@ -1,44 +1,44 @@
-ent-ClothingOuterCoatBomber = bomber jacket
-    .desc = A thick, well-worn WW2 leather bomber jacket.
+ent-ClothingOuterCoatBomber = chaqueta de bombardero
+    .desc = Una chaqueta gruesa de bombardero de la Segunda Guerra Mundial.
     .suffix = { "" }
 
-ent-ClothingOuterCoatDetective = detective trenchcoat
-    .desc = A rugged canvas trenchcoat, designed and created by TX Fabrication Corp. The coat is externally impact resistant - perfect for your next act of autodefenestration!
+ent-ClothingOuterCoatDetective = gabardina de detective
+    .desc = Una gabardina arrugada, diseñada y fabricada por TX Fabrication Corp. El abrigo es resistente a los impactos - perfecto para tu siguiente auto-defenestración!
     .suffix = { "" }
 
-ent-ClothingOuterCoatGentle = gentle coat
-    .desc = A gentle coat for a gentle man, or woman.
+ent-ClothingOuterCoatGentle = abrigo elegante
+    .desc = Un abrigo suave para hombres o mujeres elegantes.
     .suffix = { "" }
 
-ent-ClothingOuterCoatHoSTrench = head of security's trenchcoat
-    .desc = This trenchcoat was specifically designed for asserting superior authority.
+ent-ClothingOuterCoatHoSTrench = gabardina de jefe de seguridad
+    .desc = Esta gabardina ha sido específicamente diseñada para demostrar tu autoridad.
     .suffix = { "" }
 
-ent-ClothingOuterCoatInspector = inspectors coat
-    .desc = A strict inspector coat for being intimidating during inspections.
+ent-ClothingOuterCoatInspector = capa de inspector
+    .desc = Una capa de inspector estricto para intimidar durante inspecciones.
     .suffix = { "" }
 
-ent-ClothingOuterCoatJensen = jensen coat
-    .desc = A jensen coat.
+ent-ClothingOuterCoatJensen = abrigo jensen
+    .desc = Un abrigo jensen.
     .suffix = { "" }
 
-ent-ClothingOuterCoatLab = lab coat
-    .desc = A suit that protects against minor chemical spills.
+ent-ClothingOuterCoatLab = bata de laboratorio
+    .desc = Un traje que protege contra derrames químicos.
     .suffix = { "" }
 
-ent-ClothingOuterCoatLabChem = lab coat (chem)
-    .desc = A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.
+ent-ClothingOuterCoatLabChem = bata de laboratorio (químico)
+    .desc = Un traje que protege contra derrames químicos. Tiene una raya naranja en el hombro.
     .suffix = { "" }
 
-ent-ClothingOuterCoatLabCmo = chief medical officer's lab coat
-    .desc = Bluer than the standard model.
+ent-ClothingOuterCoatLabCmo = bata de laboratorio de director médico
+    .desc = Más azul que el resto de modelos.
     .suffix = { "" }
 
-ent-ClothingOuterCoatPirate = pirate garb
-    .desc = Yarr.
+ent-ClothingOuterCoatPirate = atuendo de pirata 
+    .desc = Arrr.
     .suffix = { "" }
 
-ent-ClothingOuterCoatWarden = warden's armored jacket
-    .desc = A sturdy, utilitarian jacket designed to protect a warden from any brig-bound threats.
+ent-ClothingOuterCoatWarden = chaqueta blindada de carcelero
+    .desc = Una chaqueta robusta, diseñada para proteger al carcelero de cualquiera que amenace la seguridad del calabozo.
     .suffix = { "" }
 

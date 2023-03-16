@@ -1,8 +1,8 @@
-ent-ClothingOuterHardsuitBase = base hardsuit
+ent-ClothingOuterHardsuitBase = escafandra base
     .desc = { "" }
     .suffix = { "" }
 
-ent-ClothingOuterEVASuitBase = base EVA Suit
+ent-ClothingOuterEVASuitBase = traje EVA base
     .desc = { "" }
     .suffix = { "" }
 

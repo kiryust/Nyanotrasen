@@ -1,24 +1,24 @@
-ent-ClothingOuterBioGeneral = bio suit
-    .desc = A suit that protects against biological contamination.
+ent-ClothingOuterBioGeneral = traje biológico
+    .desc = Un traje que protege contra la contaminación biológica.
     .suffix = Generic
 
-ent-ClothingOuterBioCmo = bio suit
-    .desc = An advanced suit that protects against biological contamination, in CMO colors.
+ent-ClothingOuterBioCmo = traje biológico
+    .desc = Un traje avanzado que protege contra la contaminación biológica, con color del director médico.
     .suffix = CMO
 
-ent-ClothingOuterBioJanitor = bio suit
-    .desc = A suit that protects against biological contamination, in Janitor colors.
+ent-ClothingOuterBioJanitor = traje biológico
+    .desc = Un traje que protege contra la contaminación biológica, con los colores del Conserje.
     .suffix = Janitor
 
-ent-ClothingOuterBioScientist = bio suit
-    .desc = A suit that protects against biological contamination, in Scientist colors.
+ent-ClothingOuterBioScientist = traje biológico
+    .desc = Un traje que protege contra la contaminación biológica, con los colores del equipo científico.
     .suffix = Science
 
-ent-ClothingOuterBioSecurity = bio suit
-    .desc = A suit that protects against biological contamination, in Security colors.
+ent-ClothingOuterBioSecurity = traje biológico
+    .desc = Un traje que protege contra la contaminación biológica, con los colores del equipo de seguridad.
     .suffix = Security
 
-ent-ClothingOuterBioVirology = bio suit
-    .desc = A suit that protects against biological contamination, in Virology colors.
+ent-ClothingOuterBioVirology = traje biológico
+    .desc = Un traje que protege contra la contaminación biológica, con los colores del equipo de virología.
     .suffix = Virology
 

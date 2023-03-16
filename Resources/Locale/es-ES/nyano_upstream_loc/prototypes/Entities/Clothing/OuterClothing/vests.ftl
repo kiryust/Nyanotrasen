@@ -1,24 +1,24 @@
-ent-ClothingOuterVestWebMerc = merc web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterVestWebMerc = chaleco de mercenario
+    .desc = Un chaleco armado de alta calidad hecho de un material sintético duro. Es sorprendentemente flexible y ligero, a pesar de sus formidables placas de armadura.
     .suffix = { "" }
 
-ent-ClothingOuterVestWeb = web vest
-    .desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+ent-ClothingOuterVestWeb = chaleco de tejido
+    .desc = Un chaleco sintético. Este tiene tejidos y placas balísticas.
     .suffix = { "" }
 
-ent-ClothingOuterVestKevlar = kevlar vest
-    .desc = An armor vest made of synthetic fibers.
+ent-ClothingOuterVestKevlar = chaleco de kevlar
+    .desc = Un chaleco blindado hecho de fibras sintéticas.
     .suffix = { "" }
 
-ent-ClothingOuterVestDetective = detective's vest
-    .desc = A hard-boiled private investigator's armored vest.
+ent-ClothingOuterVestDetective = chaleco de detective
+    .desc = El chaleco blindado de un investigador privado duro.
     .suffix = { "" }
 
-ent-ClothingOuterVestHazard = hi-viz vest
-    .desc = A high-visibility vest used in work zones.
+ent-ClothingOuterVestHazard = chaleco de alta visibilidad
+    .desc = Un chaleco de alta visibilidad que se usa en áreas de trabajo.
     .suffix = { "" }
 
-ent-ClothingOuterVest = vest
-    .desc = A thick vest with a rubbery, water-resistant shell.
+ent-ClothingOuterVest = chaleco
+    .desc = Un chaleco grueso de goma con una coraza resistente al agua.
     .suffix = { "" }
 
