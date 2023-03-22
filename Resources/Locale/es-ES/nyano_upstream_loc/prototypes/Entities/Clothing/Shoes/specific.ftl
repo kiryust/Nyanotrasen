@@ -1,40 +1,40 @@
-ent-ClothingShoesChef = chef shoes
-    .desc = Sturdy shoes that minimize injury from falling objects or knives.
+ent-ClothingShoesChef = zapatos de chef
+    .desc = Zapatos resistentes que minimizan el daño de objetos o cuchillos.
     .suffix = { "" }
 
-ent-ClothingShoesClown = clown shoes
-    .desc = The prankster's standard-issue clowning shoes. Damn they're huge!
+ent-ClothingShoesClown = zapatos de payaso
+    .desc = Los zapatos de payaso estándar de todo bromista. Vaya, son enormes!
     .suffix = { "" }
 
-ent-ClothingShoesBling = bling clown shoes
-    .desc = Made of refined bananium and shined with the pulp of a fresh banana peel. These make a flashy statement.
+ent-ClothingShoesBling = zapatos de payaso brillantes
+    .desc = Hechos de bananium refinado y pulidos con pulpa de una monda de banana fresca. Hacen una declaración llamativa.
     .suffix = { "" }
 
-ent-ClothingShoesCult = cult shoes
-    .desc = A pair of boots worn by the followers of Nar'Sie.
+ent-ClothingShoesCult = zapatos de culto
+    .desc = Un par de botas usadas por los seguidores de Nar'Sie.
     .suffix = { "" }
 
-ent-ClothingShoesGaloshes = galoshes
-    .desc = Rubber boots.
+ent-ClothingShoesGaloshes = chanclos
+    .desc = Botas de goma.
     .suffix = { "" }
 
-ent-ClothingShoesSpaceNinja = space ninja shoes
-    .desc = A pair of nano-enhanced boots with built-in magnetic suction cups.
+ent-ClothingShoesSpaceNinja = zapatos de ninja espacial
+    .desc = Un par de botas nano-mejoradas equipadas con ventosas magnéticas.
     .suffix = { "" }
 
-ent-ClothingShoesSwat = swat shoes
-    .desc = When you want to turn up the heat.
+ent-ClothingShoesSwat = zapatos de swat
+    .desc = Para cuando quieres caldear el ambiente.
     .suffix = { "" }
 
-ent-ClothingShoesWizard = wizard shoes
-    .desc = A pair of magic shoes.
+ent-ClothingShoesWizard = zapatos de mago
+    .desc = Un par de zapatos mágicos.
     .suffix = { "" }
 
-ent-ClothingShoesChameleon = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesChameleon = zapatos negros
+    .desc = Zapatos negros con estilo.
     .suffix = Chameleon
 
-ent-ClothingShoesChameleonNoSlips = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesChameleonNoSlips = zapatos negros
+    .desc = Zapatos negros con estilo.
     .suffix = No-slip, Chameleon
 

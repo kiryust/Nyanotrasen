@@ -1,36 +1,36 @@
-ent-ClothingShoesColorBlack = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesColorBlack = zapatos negros
+    .desc = Zapatos negros con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorBlue = blue shoes
-    .desc = Stylish blue shoes.
+ent-ClothingShoesColorBlue = zapatos azules
+    .desc = Zapatos azules con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorBrown = brown shoes
-    .desc = A pair of brown shoes.
+ent-ClothingShoesColorBrown = zapatos marrones
+    .desc = Un par de zapatos marrones.
     .suffix = { "" }
 
-ent-ClothingShoesColorGreen = green shoes
-    .desc = Stylish green shoes.
+ent-ClothingShoesColorGreen = zapatos verdes
+    .desc = Zapatos verdes con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorOrange = orange shoes
-    .desc = Stylish orange shoes.
+ent-ClothingShoesColorOrange = zapatos naranjas
+    .desc = Zapatos naranjas con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorPurple = purple shoes
-    .desc = Stylish purple shoes.
+ent-ClothingShoesColorPurple = zapatos púrpuras
+    .desc = Zapatos púrpuras con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorRed = red shoes
-    .desc = Stylish red shoes.
+ent-ClothingShoesColorRed = zapatos rojos
+    .desc = Zapatos rojos con estilo.
     .suffix = { "" }
 
-ent-ClothingShoesColorWhite = white shoes
-    .desc = Don't take them off at your office Christmas party.
+ent-ClothingShoesColorWhite = zapatos blancos
+    .desc = No te los quites en la fiesta de navidad de tu oficina.
     .suffix = { "" }
 
-ent-ClothingShoesColorYellow = yellow shoes
-    .desc = Stylish yellow shoes.
+ent-ClothingShoesColorYellow = zapatos amarillos
+    .desc = Zapatos amarillos con estilo.
     .suffix = { "" }
 

@@ -1,304 +1,304 @@
-ent-ClothingUniformJumpsuitAncient = ancient jumpsuit
-    .desc = A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
+ent-ClothingUniformJumpsuitAncient = mono antiguo
+    .desc = Un mono gris muy desgastado y usado. Parece que no se ha lavado en más de una década.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitBartender = bartender's uniform
-    .desc = A nice and tidy uniform. Shame about the bar though.
+ent-ClothingUniformJumpsuitBartender = uniforme de barman
+    .desc = Un uniforme bonito y ordenado. Una lástima lo del bar.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitBartenderPurple = purple bartender's uniform
-    .desc = A special purple outfit to serve drinks.
+ent-ClothingUniformJumpsuitBartenderPurple = uniforme púrpura de barman
+    .desc = Una vestimenta especial para servir bebidas.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCaptain = captain's jumpsuit
-    .desc = It's a blue jumpsuit with some gold markings denoting the rank of "Captain".
+ent-ClothingUniformJumpsuitCaptain = mono de capitán
+    .desc = Un mono azul con unos grabados de oro que indican el rango de "Capitán". 
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCargo = cargo tech jumpsuit
-    .desc = A sturdy jumpsuit, issued to members of the Cargo department.
+ent-ClothingUniformJumpsuitCargo = mono de técnico de cargo
+    .desc = Un mono resistente, entregado a miembros del departamento de cargo.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitSalvageSpecialist = salvage specialist's jumpsuit
-    .desc = It's a snappy jumpsuit with a sturdy set of overalls. It's very dirty.
+ent-ClothingUniformJumpsuitSalvageSpecialist = mono de especialista de salvamento
+    .desc = Un mono elegante y robusto. Está muy sucio.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitChiefEngineer = chief engineer's jumpsuit
-    .desc = It's a high visibility jumpsuit given to those engineers insane enough to achieve the rank of Chief Engineer. It has minor radiation shielding.
+ent-ClothingUniformJumpsuitChiefEngineer = mono de ingeniero jefe
+    .desc = Un mono de alta visibilidad de ingeniero jefe entregado a aquellos ingenieros lo suficientemente locos como para alcanzar el rango de ingeniero jefe. Protege un poco contra la radiación.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitChaplain = chaplain's jumpsuit
-    .desc = It's a black jumpsuit, often worn by religious folk.
+ent-ClothingUniformJumpsuitChaplain = mono de capellán
+    .desc = Un mono negro, a menudo lo lleva gente religiosa.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCentcomOfficial = CentCom official's jumpsuit
-    .desc = It's a jumpsuit worn by CentCom's officials.
+ent-ClothingUniformJumpsuitCentcomOfficial = mono de oficial de CentCom
+    .desc = Un mono que llevan los oficiales de CentCom.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCentcomOfficer = CentCom officer's jumpsuit
-    .desc = It's a jumpsuit worn by CentCom Officers.
+ent-ClothingUniformJumpsuitCentcomOfficer = mono de funcionario de CentCom
+    .desc = Un mono que llevan los funcionarios de CentCom.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitChef = chef uniform
-    .desc = Can't cook without this.
+ent-ClothingUniformJumpsuitChef = uniforme de chef
+    .desc = No se puede cocinar sin esto.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitChemistry = chemistry jumpsuit
-    .desc = There's some odd stains on this jumpsuit. Hm.
+ent-ClothingUniformJumpsuitChemistry = mono de químico
+    .desc = Hay unas manchas raras en el mono. Hm.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitClown = clown suit
+ent-ClothingUniformJumpsuitClown = traje de payaso
     .desc = HONK!
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCMO = chief medical officer's jumpsuit
-    .desc = It's a jumpsuit worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+ent-ClothingUniformJumpsuitCMO = mono de director médico
+    .desc = Un mono que llevan aquellos con suficiente experiencia como para ser director médico. Ofrece un poco de protección biológica.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitDetective = hard-worn suit
-    .desc = Someone who wears this means business.
+ent-ClothingUniformJumpsuitDetective = mono desgastado
+    .desc = Alguien que viste esto significa problemas.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitDetectiveGrey = noir suit
-    .desc = A hard-boiled private investigator's grey suit, complete with tie clip.
+ent-ClothingUniformJumpsuitDetectiveGrey = traje noir
+    .desc = El traje gris de un investigador privado empedernido, completo con un clip de corbata.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitEngineering = engineering jumpsuit
-    .desc = If this suit was non-conductive, maybe engineers would actually do their damn job.
+ent-ClothingUniformJumpsuitEngineering = mono de ingeniería
+    .desc = Si este traje no condujese la corriente, quizás los ingenieros harían su maldito trabajo.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitEngineeringHazard = hazard jumpsuit
-    .desc = Woven in a grungy, warm orange. Lets others around you know that you really mean business when it comes to work.
+ent-ClothingUniformJumpsuitEngineeringHazard = mono de peligro
+    .desc = Tejido en un naranja cálido y sucio. Permite que los demás sepan que vas en serio a la hora de trabajar.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoP = head of personnel's jumpsuit
-    .desc = Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
+ent-ClothingUniformJumpsuitHoP = mono de jefe de personal
+    .desc = Bastante soso e inofensivo. Perfecto para desaparecer de la faz del universo.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoS = head of security's jumpsuit
-    .desc = It's bright red and rather crisp, much like security's victims tend to be.
+ent-ClothingUniformJumpsuitHoS = mono de jefe de seguridad
+    .desc = Es de un color rojo brillante y bastante crujiente, al igual que la mayoría de víctimas de seguridad.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoSAlt = head of security's turtleneck
-    .desc = It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security. Its sturdy fabric provides minor protection from mechanical damage.
+ent-ClothingUniformJumpsuitHoSAlt = cuello alto de jefe de seguridad
+    .desc = Es un suéter de cuello alto que llevan aquellos con la suficiente fuerza y disciplina para ser jefe de seguridad. Su tela resistente protege un poco contra daño mecánico.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoSBlue = head of security's blue jumpsuit
-    .desc = A blue jumpsuit of Head of Security.
+ent-ClothingUniformJumpsuitHoSBlue = uniforme de desfile del jefe de seguridad
+    .desc = Una prenda de lujo del jefe de seguridad, para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoSGrey = head of security's grey jumpsuit
-    .desc = A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
+ent-ClothingUniformJumpsuitHoSGrey = mono gris de jefe de seguridad
+    .desc = Un mono gris para el jefe de seguridad, el cual hace que parezca un pasajero.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHoSParadeMale = head of security's parade uniform
-    .desc = A male head of security's luxury-wear, for special occasions.
+ent-ClothingUniformJumpsuitHoSParadeMale = uniforme de desfile del jefe de seguridad
+    .desc = Una prenda de lujo del jefe de seguridad, para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHydroponics = hydroponics jumpsuit
-    .desc = Has a strong earthy smell to it. Hopefully it's merely dirty as opposed to soiled.
+ent-ClothingUniformJumpsuitHydroponics = mono de hidrofónico
+    .desc = Tiene un olor fuerte a tierra. Esperemos que sea tierra y no suciedad.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitJanitor = janitor jumpsuit
-    .desc = The jumpsuit for the poor sop with a mop.
+ent-ClothingUniformJumpsuitJanitor = mono de conserje
+    .desc = Mono para el pobre con una mopa.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitMedicalDoctor = medical doctor jumpsuit
-    .desc = It's made of a special fiber that provides minor protection against biohazards. It has a cross on the chest denoting that the wearer is trained medical personnel.
+ent-ClothingUniformJumpsuitMedicalDoctor = mono de médico
+    .desc = Hecho de una fibra especial que protege un poco contra riesgos biológicos. Tiene una cruz en el pecho que indica que su portador es un médico profesional entrenado.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitMime = mime suit
+ent-ClothingUniformJumpsuitMime = traje de mimo
     .desc = ...
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitParamedic = paramedic jumpsuit
-    .desc = It's got a plus on it, that's a good thing right?
+ent-ClothingUniformJumpsuitParamedic = mono de paramédico
+    .desc = Tiene un signo más, eso es bueno, verdad?
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitPrisoner = prisoner jumpsuit
-    .desc = Busted.
+ent-ClothingUniformJumpsuitPrisoner = mono de prisionero
+    .desc = Trincado.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitQM = quartermaster's jumpsuit
-    .desc = What can brown do for you?
+ent-ClothingUniformJumpsuitQM = mono de oficial de intendencia
+    .desc = Que puede hacer Brown por ti?
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitResearchDirector = research director's turtleneck
-    .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+ent-ClothingUniformJumpsuitResearchDirector = cuello alto de director de investigación
+    .desc = Es un suéter de cuello alto que llevan aquellos con los conocimientos necesarios para ser director de investigación. Su tela protege un poco contra contaminaciones biológicas.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitScientist = scientist jumpsuit
-    .desc = It's made of a special fiber that provides minor protection against explosives. It has markings that denote the wearer as a scientist.
+ent-ClothingUniformJumpsuitScientist = mono de científio
+    .desc = Está hecho de una fibra especial que protege un poco contra explosiones. Tiene unas marcas que indican que su portador es un científico.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitSec = security jumpsuit
-    .desc = A jumpsuit made of strong material, providing robust protection.
+ent-ClothingUniformJumpsuitSec = mono de seguridad
+    .desc = Un mono de seguridad hecho de materiales resistentes, proporciona una protección robusta.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitSecBlue = blue shirt and tie
-    .desc = I'm a little busy right now, Calhoun.
+ent-ClothingUniformJumpsuitSecBlue = camiseta azul y corbata
+    .desc = Estoy un poco ocupado ahora, Calhoun.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitSecGrey = grey security jumpsuit
-    .desc = A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
+ent-ClothingUniformJumpsuitSecGrey = mono gris
+    .desc = Una reliquia del pasado, antes de que Nanotrasen decidiera que era más barato teñir los monos de rojo que lavar la sangre.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitWarden = warden's uniform
-    .desc = A formal security suit for officers complete with Nanotrasen belt buckle.
+ent-ClothingUniformJumpsuitWarden = uniforme de carcelero
+    .desc = Un traje de seguridad formal para oficiales completo con una hebilla de cinturón de Nanotrasen.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorGrey = grey jumpsuit
-    .desc = A tasteful grey jumpsuit that reminds you of the good old days.
+ent-ClothingUniformJumpsuitColorGrey = mono gris
+    .desc = Un mono gris con estilo que te recuerda los viejos tiempos.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorBlack = black jumpsuit
-    .desc = A generic black jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBlack = mono negro
+    .desc = Un mono negro sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorBlue = blue jumpsuit
-    .desc = A generic blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBlue = mono azul
+    .desc = Un mono azul sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorGreen = green jumpsuit
-    .desc = A generic green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorGreen = mono verde
+    .desc = Un mono verde sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorOrange = orange jumpsuit
-    .desc = Don't wear this near paranoid security officers.
+ent-ClothingUniformJumpsuitColorOrange = mono naranja
+    .desc = No lleves esto cerca de guardias de seguridad paranóicos.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorPink = pink jumpsuit
-    .desc = Just looking at this makes you feel fabulous.
+ent-ClothingUniformJumpsuitColorPink = mono rosa
+    .desc = Solo mirarlo te hace sentir fabuloso.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorRed = red jumpsuit
-    .desc = A generic red jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorRed = mono rojo
+    .desc = Un mono rojo sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorWhite = white jumpsuit
-    .desc = A generic white jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorWhite = mono blanco
+    .desc = Un mono blanco sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorYellow = yellow jumpsuit
-    .desc = A generic yellow jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorYellow = mono amarillo
+    .desc = Un mono amarillo sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorDarkBlue = dark blue jumpsuit
-    .desc = A generic dark blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkBlue = mono azul oscuro
+    .desc = Un mono azul oscuro sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorTeal = teal jumpsuit
-    .desc = A generic teal jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorTeal = mono verde azulado
+    .desc = Un mono verde azulado sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorPurple = purple jumpsuit
-    .desc = A generic purple jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorPurple = mono púrpura
+    .desc = Un mono púrpura sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorDarkGreen = dark green jumpsuit
-    .desc = A generic dark green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkGreen = mono verde oscuro
+    .desc = Un mono verde oscuro sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorLightBrown = light brown jumpsuit
-    .desc = A generic light brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorLightBrown = mono marrón claro
+    .desc = Un mono marrón claro sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorBrown = brown jumpsuit
-    .desc = A generic brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBrown = mono marrón
+    .desc = Un mono marrón sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitColorMaroon = maroon jumpsuit
-    .desc = A generic maroon jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorMaroon = mono granate
+    .desc = Un mono granate sin marcas de rango.
     .suffix = { "" }
 
-ent-ClothingUniformColorRainbow = rainbow jumpsuit
-    .desc = A multi-colored jumpsuit!
+ent-ClothingUniformColorRainbow = mono arcoiris
+    .desc = Un mono multicolor!
     .suffix = { "" }
 
-ent-ClothingUniformOveralls = overalls
-    .desc = Great for working outdoors.
+ent-ClothingUniformOveralls = pantalones con peto
+    .desc = Perfectos para trabajar en el exterior.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLibrarian = librarian jumpsuit
-    .desc = A cosy green jumper fit for a curator of books.
+ent-ClothingUniformJumpsuitLibrarian = mono de bibliotecario
+    .desc = Un mono verde acogedor para el protector de los libros.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLawyerRed = red lawyer suit
-    .desc = A flashy red suit worn by lawyers and show-offs.
+ent-ClothingUniformJumpsuitLawyerRed = traje rojo de abogado
+    .desc =  Un traje rojo brillante que llevan los abogados y presumidos.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLawyerBlue = blue lawyer suit
-    .desc = A flashy blue suit worn by lawyers and show-offs.
+ent-ClothingUniformJumpsuitLawyerBlue = traje azul de abogado
+    .desc = Un traje azul brillante que llevan los abogados y presumidos.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLawyerBlack = black lawyer suit
-    .desc = A subtle black suit worn by lawyers and gangsters.
+ent-ClothingUniformJumpsuitLawyerBlack = traje negro de abogado
+    .desc = Un traje negro sutil que llevan los abogados y gánsters.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLawyerPurple = purple lawyer suit
-    .desc = A stylish purple piece worn by lawyers and show people.
+ent-ClothingUniformJumpsuitLawyerPurple = traje púrpura de abogado
+    .desc = Un traje púrpura con estilo vestido por los abogados.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitLawyerGood = good lawyer's suit
-    .desc = A tacky suit perfect for a CRIMINAL lawyer!
+ent-ClothingUniformJumpsuitLawyerGood = traje de abogado bueno
+    .desc = Un traje pegajoso perfecto para un abogado CRIMINAL!
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitPyjamaSyndicateBlack = black syndicate pyjamas
-    .desc = For those long nights in perma.
+ent-ClothingUniformJumpsuitPyjamaSyndicateBlack = pijama negro del sindicato
+    .desc = Para esas noches largas en la permanente.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitPyjamaSyndicatePink = pink syndicate pyjamas
-    .desc = For those long nights in perma.
+ent-ClothingUniformJumpsuitPyjamaSyndicatePink = pijama rosa del sindicato
+    .desc = Para esas noches largas en la permanente.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitPyjamaSyndicateRed = red syndicate pyjamas
-    .desc = For those long nights in perma.
+ent-ClothingUniformJumpsuitPyjamaSyndicateRed = pijama rojo del sindicato
+    .desc = Para esas noches largas en la permanente.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitNanotrasen = nanotrasen jumpsuit
-    .desc = A stately blue jumpsuit to represent NanoTrasen.
+ent-ClothingUniformJumpsuitNanotrasen = mono de Nanotrasen
+    .desc = Un majestuoso mono azul para representar a Nanotrasen.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCapFormal = captain's formal suit
-    .desc = A suit for special occasions.
+ent-ClothingUniformJumpsuitCapFormal = traje formal del Capitán
+    .desc = Un traje para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitCentcomFormal = central command formal suit
-    .desc = A suit for special occasions.
+ent-ClothingUniformJumpsuitCentcomFormal = traje formal de Comando central
+    .desc = Un traje para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitHosFormal = hos's formal suit
-    .desc = A suit for special occasions.
+ent-ClothingUniformJumpsuitHosFormal = traje formal de jefe de seguridad
+    .desc = Un traje para ocasiones especiales.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitOperative = operative jumpsuit
-    .desc = Uniform for elite syndicate operatives performing tactical operations in deep space.
+ent-ClothingUniformJumpsuitOperative = mono de operativo
+    .desc = Uniforme para operativos del sindicato de élite realizando operaciones tácticas en el espacio.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitAtmos = atmosheric technician jumpsuit
-    .desc = I am at work. I can't leave work. Work is breathing. I am testing air quality.
+ent-ClothingUniformJumpsuitAtmos = mono de técnico atmosférico
+    .desc = Estoy en el trabajo. No puedo abandonar mi puesto. Respirar es trabajar. Estoy probando la calidad del aire.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitPsychologist = psychologist suit
-    .desc = I don't lose things. I place things in locations which later elude me.
+ent-ClothingUniformJumpsuitPsychologist = traje de psicólogo
+    .desc = Yo no pierdo cosas. Yo pongo cosas en lugares que después me evitan.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitReporter = reporter suit
-    .desc = A good reporter remains a skeptic all their life.
+ent-ClothingUniformJumpsuitReporter = traje de reportero
+    .desc = Un buen reportero permanece escéptico el resto de su vida.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitJournalist = journalist suit
-    .desc = If journalism is good, it is controversial, by nature.
+ent-ClothingUniformJumpsuitJournalist = traje de periodista
+    .desc = Si el periodismo es bueno, entonces es controvertido, por naturaleza.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitMonasticRobeDark = dark monastic robe
-    .desc = It's a dark robe, often worn by religious folk.
+ent-ClothingUniformJumpsuitMonasticRobeDark = túnica monástica oscura
+    .desc = Una túnica oscura, a menudo la lleva gente religiosa.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitMonasticRobeLight = light monastic robe
-    .desc = It's a light robe, often worn by religious folk.
+ent-ClothingUniformJumpsuitMonasticRobeLight = túnica monástica clara
+    .desc = Una túnica clara, a menudo la lleva gente religiosa.
     .suffix = { "" }
 
-ent-ClothingUniformJumpsuitMusician = musician's tuxedo
-    .desc = A fancy tuxedo for the musically inclined.  Perfect for any lounge act!
+ent-ClothingUniformJumpsuitMusician = smoking de músico
+    .desc = Un bonito smoking para los interesados en la música. Perfecto para cualquier actuación de salón!
     .suffix = { "" }
 

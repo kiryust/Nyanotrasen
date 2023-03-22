@@ -1,20 +1,20 @@
-ent-ClothingShoesFlippers = flippers
-    .desc = A pair of rubber flippers that improves swimming ability when worn.
+ent-ClothingShoesFlippers = aletas
+    .desc = Un par de aletas de goma que, cuando se usan, mejoran la habilidad de natación.
     .suffix = { "" }
 
-ent-ClothingShoesLeather = leather shoes
-    .desc = Very stylish pair of boots, made from fine leather.
+ent-ClothingShoesLeather = zapatos de cuero
+    .desc = Un par de zapatos con mucho estilo, hechos de fino cuero.
     .suffix = { "" }
 
-ent-ClothingShoesSlippers = slippers
-    .desc = Fluffy!
+ent-ClothingShoesSlippers = zapatillas
+    .desc = ¡Mullidas!
     .suffix = { "" }
 
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = Comfy, yet haunted by the ghosts of ducks you fed bread to as a child.
+ent-ClothingShoeSlippersDuck = zapatillas de pato
+    .desc = Cómodas, pero encantadas por los fantasmas de los patos a los que les diste pan cuando eras pequeño.
     .suffix = { "" }
 
-ent-ClothingShoesTourist = tourist shoes
-    .desc = These cheap sandals don't look very comfortable.
+ent-ClothingShoesTourist = zapatos de turista
+    .desc = Estas sandalias baratas no parecen muy cómodas.
     .suffix = { "" }
 

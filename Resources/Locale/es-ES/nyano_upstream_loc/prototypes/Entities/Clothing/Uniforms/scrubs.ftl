@@ -1,12 +1,12 @@
-ent-UniformScrubsColorPurple = purple scrubs
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorPurple = bata púrpura
+    .desc = Una combinación entre confort y utilidad destinada a hacer que quitar todos los órganos de un cuerpo y venderlos a un robot espacial parezca más oficial.
     .suffix = { "" }
 
-ent-UniformScrubsColorGreen = green scrubs
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorGreen = bata verde
+    .desc = Una combinación entre confort y utilidad destinada a hacer que quitar todos los órganos de un cuerpo y venderlos a un robot espacial parezca más oficial.
     .suffix = { "" }
 
-ent-UniformScrubsColorBlue = blue scrubs
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorBlue = bata azul
+    .desc = Una combinación entre confort y utilidad destinada a hacer que quitar todos los órganos de un cuerpo y venderlos a un robot espacial parezca más oficial.
     .suffix = { "" }
 
