@@ -1,8 +1,8 @@
-disarm-action-disarmable = {THE($targetName)} is not disarmable!
-disarm-action-popup-message-other-clients = {CAPITALIZE(THE($performerName))} disarmed {THE($targetName)}!
-disarm-action-popup-message-cursor = Disarmed {THE($targetName)}!
-disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} shoves {THE($targetName)}!
-disarm-action-shove-popup-message-cursor = You shove {THE($targetName)}!
+disarm-action-disarmable = {THE($targetName)} no es desarmable!
+disarm-action-popup-message-other-clients = {CAPITALIZE(THE($performerName))} desarmó {THE($targetName)}!
+disarm-action-popup-message-cursor = Se ha desarmado a {THE($targetName)}!
+disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} empuja a {THE($targetName)}!
+disarm-action-shove-popup-message-cursor = Empujas a {THE($targetName)}!
 
-action-name-disarm = [color=red]Disarm[/color]
-action-description-disarm = Attempt to [color=red]disarm[/color] someone.
+action-name-disarm = [color=red]Desarmar[/color]
+action-description-disarm = Intenta [color=red]desarmar[/color] a alguien.

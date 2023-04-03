@@ -1,12 +1,12 @@
-action-name-combat = [color=red]Combat Mode[/color]
-action-description-combat = Enter combat mode
+action-name-combat = [color=red]Modo de Combate[/color]
+action-description-combat = Activar modo de combate
 
-action-popup-combat = Combat mode disabled
-action-popup-combat-enabled = Combat mode enabled
+action-popup-combat = Modo de combate desactivado
+action-popup-combat-enabled = Modo de combate activado
 
 
-action-name-precision = [color=red]Precision mode[/color]
-action-description-precision = Enter precision mode for combat, attacking what is under your cursor.
+action-name-precision = [color=red]Modo Precisión[/color]
+action-description-precision = Activa el modo precisión para el combate, atacando todo lo que está bajo tu cursor.
 
-action-popup-precision = Precision mode disabled
-action-popup-precision-enabled = Precision mode enabled
+action-popup-precision = Modo precisión desactivado
+action-popup-precision-enabled = Modo precisión activado
