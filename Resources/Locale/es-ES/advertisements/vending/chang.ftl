@@ -1,4 +1,4 @@
-﻿advertisement-chang-1 = Taste 5000 years of culture!
-advertisement-chang-2 = Mr. Chang, approved for safe consumption in over 10 sectors!
-advertisement-chang-3 = Chinese food is great for a date night, or a lonely night!
-advertisement-chang-4 = You can't go wrong with Mr. Chang's authentic Chinese food!
+﻿advertisement-chang-1 = Prueba 5000 años de cultura!
+advertisement-chang-2 = Señor Chang, aprobado para consumo seguro en más de 10 sectores!
+advertisement-chang-3 = La comida china es perfecta para una noche de cita, o una noche solitaria!
+advertisement-chang-4 = No puedes equivocarte con la auténtica comida china del Señor Chang!

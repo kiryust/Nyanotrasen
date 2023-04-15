@@ -1,9 +1,9 @@
-﻿advertisement-ammo-1 = Liberation Station: Your one-stop shop for all things second amendment!
-advertisement-ammo-2 = Be a patriot today, pick up a gun!
-advertisement-ammo-3 = Quality weapons for cheap prices!
-advertisement-ammo-4 = Better dead than red!
-advertisement-ammo-5 = Float like an astronaut, sting like a bullet!
-advertisement-ammo-6 = Express your second amendment today!
-advertisement-ammo-7 = Guns don't kill people, but you can!
-advertisement-ammo-8 = Who needs responsibilities when you have guns?
+﻿advertisement-ammo-1 = Liberation Station: Tu ventanilla única para todo lo relacionado con la segunda enmienda!
+advertisement-ammo-2 = Sé un patriota, coge un arma!
+advertisement-ammo-3 = Armas de calidad a precios bajos!
+advertisement-ammo-4 = Mejor muerto que rojo!
+advertisement-ammo-5 = Vuela como un astronauta, pica como una bala!
+advertisement-ammo-6 = Expresa tu segunda enmienda hoy!
+advertisement-ammo-7 = Las armas no matan, pero tu si!
+advertisement-ammo-8 = Quien necesita responsabilidades cuando tienes armas?
 

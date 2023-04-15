@@ -1,5 +1,5 @@
-﻿advertisement-sovietsoda-1 = For comrade and country.
-advertisement-sovietsoda-2 = Have you fulfilled your nutrition quota today?
-advertisement-sovietsoda-3 = Very nice!
-advertisement-sovietsoda-4 = We are simple people, for this is all we eat.
-advertisement-sovietsoda-5 = If there is a person, there is a problem. If there is no person, then there is no problem.
+﻿advertisement-sovietsoda-1 = Por los camaradas y la patria.
+advertisement-sovietsoda-2 = Has cumplido tu cuota de nutrición por hoy?
+advertisement-sovietsoda-3 = Muy bien!
+advertisement-sovietsoda-4 = Somos gente sencilla, esto es todo lo que comemos.
+advertisement-sovietsoda-5 = Si hay una persona, entonces hay un problema. Si no hay nadie, entonces no hay ningún problema.

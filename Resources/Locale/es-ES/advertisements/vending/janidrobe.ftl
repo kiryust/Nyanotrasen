@@ -1,1 +1,1 @@
-advertisement-janidrobe-1 = Come and get your janitorial clothing, now endorsed by lizard janitors everywhere!
+advertisement-janidrobe-1 = Ven y consigue tu ropa de conserje, recomendada por conserjes lagarto de todas partes!

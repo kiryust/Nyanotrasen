@@ -1,2 +1,2 @@
-action-name-honk = Honk
-action-desc-honk = Honk!
+action-name-honk = Bocinazo
+action-desc-honk = Beep!

@@ -1,7 +1,7 @@
-﻿advertisement-nanomed-1 = Go save some lives!
-advertisement-nanomed-2 = The best stuff for your medbay.
-advertisement-nanomed-3 = Only the finest tools.
-advertisement-nanomed-4 = Natural chemicals!
-advertisement-nanomed-5 = This stuff saves lives.
-advertisement-nanomed-6 = Don't you want some?
+﻿advertisement-nanomed-1 = Ve y salva algunas vidas!
+advertisement-nanomed-2 = Lo mejor para el ala médica.
+advertisement-nanomed-3 = Solo las mejores herramientas.
+advertisement-nanomed-4 = Químicos naturales!
+advertisement-nanomed-5 = Esto salva vidas.
+advertisement-nanomed-6 = No quieres algo?
 advertisement-nanomed-7 = Ping!

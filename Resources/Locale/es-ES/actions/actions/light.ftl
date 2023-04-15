@@ -1,2 +1,2 @@
-action-name-toggle-light = Toggle Light
-action-description-toggle-light = Turn the light on and off.
+action-name-toggle-light = Alternar la Luz
+action-description-toggle-light = Enciende o apaga la luz.

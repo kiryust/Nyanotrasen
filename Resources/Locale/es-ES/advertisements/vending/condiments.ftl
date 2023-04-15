@@ -1,6 +1,6 @@
-﻿advertisement-condiment-1 = Tired of dry meat? Squirt some flavor-packed condiments on it!
-advertisement-condiment-2 = Child-safe utensils. Forks, spoons, and knives that won't cut a thing.
-advertisement-condiment-3 = Corn oil!
-advertisement-condiment-4 = Sweeten up your day with Astrotame! Eight out of ten doctors agree, it probably won't cause cancer.
-advertisement-condiment-5 = Hot Sauce! Barbecue Sauce! Cold Sauce! Ketchup! Soy Sauce! Horseradish Sauce! We got all the sauce!
+﻿advertisement-condiment-1 = Cansado de comer carne seca? Echale unos condimentos!
+advertisement-condiment-2 = Utensilios para niños. Tenedores, cucharas y cuchillos que no cortan nada.
+advertisement-condiment-3 = Aceite de maiz!
+advertisement-condiment-4 = Endulza tu día con Astrotame! Ocho de cada diez doctores lo recomiendan, probablemente no provoca cáncer.
+advertisement-condiment-5 = Salsa picante! Salsa Barbacoa! Salsa no-picante! Ketchup! Salsa de Soja! Salsa de Rábano! Tenemos todas las salsas!
 

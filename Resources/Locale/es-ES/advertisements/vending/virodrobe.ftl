@@ -1,1 +1,1 @@
-advertisement-virodrobe-1 = Viruses getting you down? Then upgrade to sterilized clothing today!
+advertisement-virodrobe-1 = Los virus te están haciendo pasar un mal rato? Entonces utiliza ropa esterilizada!

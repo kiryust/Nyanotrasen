@@ -1,2 +1,2 @@
-advertisement-cargodrobe-1 = Upgraded Passenger Style! Pick yours today!
-advertisement-cargodrobe-2 = These shorts are comfy and easy to wear, get yours now!
+advertisement-cargodrobe-1 = Estilo de Pasajero Actualizado! Ven hoy a por el tuyo!
+advertisement-cargodrobe-2 = Estos pantalones cortos son cómodos de llevar, ven hoy a por los tuyos!

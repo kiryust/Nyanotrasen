@@ -1,1 +1,1 @@
-advertisement-lawdrobe-1 = OBJECTION! Get the rule of law for yourself!
+advertisement-lawdrobe-1 = PROTESTO! Toma la justicia con tus propias manos!
